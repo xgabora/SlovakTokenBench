@@ -12,24 +12,22 @@ This repository contains the benchmark data, the paper, the published summary re
 ├── code/
 │   └── example_50_character_baseline.py
 ├── data/
-│   └── slovak_tokenization_benchmark.csv
-├── paper/
-│   ├── slovak_tokenization_benchmark.pdf
-└── results/
-    └── benchmark_tokenizer_summary.csv
+│   └── SlovakTokenBench_v1.csv
+└── paper/
+    └── Evaluating_Tokenization_Mismatch_in_Slovak_Morphology.pdf
 ```
 
 ## Dataset
 
-The CSV contains 1,050 rows: 1,000 scored forms and 50 separate `simple_examples`. The proportions include 300 random general forms for broad coverage, 270 pattern-representative forms cover the 27 most common declension patterns, 190 hard cases which should stress tokenization on long or unusual words, and 140 morphological-edge cases which target alternations and short endings.
+The CSV contains 1,050 rows: 1,000 scored forms and 50 separate `simple_examples`. The proportions include 330 random general forms for broad coverage, 270 pattern-representative forms cover the 27 most common declension patterns, 300 hard cases which should stress tokenization on long or unusual words, and 100 morphological-edge cases which target alternations and short endings.
 
 | Split | Rows |
 |---|---:|
-| `random_general` | 300 |
-| `pattern_representative` | 270 |
-| `hard_tokenization` | 290 |
-| `morphological_edge` | 140 |
 | `simple_examples` | 50 |
+| `random_general` | 330 |
+| `pattern_representative` | 270 |
+| `hard_tokenization` | 300 |
+| `morphological_edge` | 100 |
 
 The manually corrected `form` column is authoritative. `stem`, `suffix`, and `stem_suffix_boundary` are derived from that surface form. The source morphemes and lemma metadata come from the Slovak Root Morpheme Dictionary. The JÚĽŠ noun database is the external inflection reference: <https://slovnik.juls.savba.sk/>.
 
