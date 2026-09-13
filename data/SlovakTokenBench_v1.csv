@@ -1,0 +1,1051 @@
+﻿id,split,lemma,number,case,form,rod_primary,vzor_primary,stem,suffix,stem_suffix_boundary,source_morphemes,source_morpheme_boundaries
+1,simple_examples,deň,sg,N,deň,mi,V-deň,deň,ø,[],deň,[]
+2,simple_examples,bojar,pl,N,bojari,mp,chlap,bojar,i,[5],bojar,[]
+3,simple_examples,vzlet,sg,I,vzletom,mi,zápas,vzlet,om,[5],vz|let,[2]
+4,simple_examples,čachrár,sg,A,čachrára,mp,chlap,čachrár,a,[7],čachr|ár,[5]
+5,simple_examples,jogín,sg,L,jogínovi,mp,chlap,jogín,ovi,[5],jog|ín,[3]
+6,simple_examples,bludár,sg,N,bludár,mp,chlap,bludár,ø,[],blud|ár,[4]
+7,simple_examples,hlad,pl,I,hladmi,mi,zápas,hlad,mi,[4],hlad,[]
+8,simple_examples,odlev,pl,N,odlevy,mi,zápas,odlev,y,[5],od|le|v,"[2, 4]"
+9,simple_examples,pátos,sg,D,pátosu,mi,zápas,pátos,u,[5],pát|os,[3]
+10,simple_examples,linotyp,pl,N,linotypy,mi,zápas,linotyp,y,[7],lin|o|typ,"[3, 4]"
+11,simple_examples,svižnosť,sg,N,svižnosť,f,možnosť,svižnosť,ø,[],sviž|n|osť,"[4, 5]"
+12,simple_examples,predpis,sg,A,predpis,mi,zápas,predpis,ø,[],pred|pis,[4]
+13,simple_examples,sublimát,sg,N,sublimát,mi,zápas,sublimát,ø,[],sublim|át,[6]
+14,simple_examples,stupaj,sg,N,stupaj,f,esej,stupaj,ø,[],stup|aj,[4]
+15,simple_examples,krošňa,pl,D,krošniam,f,poisťovňa,krošn,iam,[5],krošň|a,[5]
+16,simple_examples,zlodej,sg,I,zlodejom,mp,chlap,zlodej,om,[6],zl|o|dej,"[2, 3]"
+17,simple_examples,znakár,pl,I,znakármi,mp,chlap,znakár,mi,[6],znak|ár,[4]
+18,simple_examples,rádium,pl,G,rádií,n,médium,rádi,í,[4],rádi|um,[4]
+19,simple_examples,čulosť,sg,G,čulosti,f,možnosť,čulost,i,[6],čul|osť,[3]
+20,simple_examples,zápis,pl,D,zápisom,mi,zápas,zápis,om,[5],zá|pis,[2]
+21,simple_examples,malvica,sg,L,malvici,f,ulica,malvic,i,[6],malv|ic|a,"[4, 6]"
+22,simple_examples,žaket,pl,D,žaketom,mi,zápas,žaket,om,[5],žaket,[]
+23,simple_examples,znalosť,sg,L,znalosti,f,možnosť,znalost,i,[7],zn|al|osť,"[2, 4]"
+24,simple_examples,úmor,sg,N,úmor,mi,zápas,úmor,ø,[],ú|mor,[1]
+25,simple_examples,mikrób,sg,A,mikrób,mp,chlap,mikrób,ø,[],mikrób,[]
+26,simple_examples,jantár,pl,A,jantáre,mi,žiaľ,jantár,e,[6],jantár,[]
+27,simple_examples,úlisnica,sg,A,úlisnicu,f,ulica,úlisnic,u,[7],ú|lis|n|ic|a,"[1, 4, 5, 7]"
+28,simple_examples,hever,sg,D,heveru,mi,hotel,hever,u,[5],hev|er,[3]
+29,simple_examples,brlôžok,pl,D,brlôžkom,mi,kúsok,brlôžk,om,[6],brlôžok,[]
+30,simple_examples,čas,pl,D,časom,mi,zápas,čas,om,[3],čas,[]
+31,simple_examples,žena,sg,I,ženou,f,žena,žen,ou,[3],žen|a,[3]
+32,simple_examples,chlap,sg,D,chlapovi,mp,chlap,chlap,ovi,[5],chlap,[]
+33,simple_examples,hlas,sg,A,hlas,mi,zápas,hlas,ø,[],hlas,[]
+34,simple_examples,pole,sg,D,poľu,n,V-more,poľ,u,[3],pol|e,[3]
+35,simple_examples,miesto,sg,L,mieste,n,miesto,miest,e,[5],miest|o,[5]
+36,simple_examples,štát,sg,N,štát,mi,zápas,štát,ø,[],štát,[]
+37,simple_examples,priateľ,sg,A,priateľa,mp,priateľ,priateľ,a,[7],pria|teľ,[4]
+38,simple_examples,mesto,pl,L,mestách,n,mesto,mest,ách,[4],mest|o,[4]
+39,simple_examples,ulica,sg,A,ulicu,f,ulica,ulic,u,[4],ulic|a,[4]
+40,simple_examples,hrad,pl,D,hradom,mi,zápas,hrad,om,[4],hrad,[]
+41,simple_examples,výsledok,sg,I,výsledkom,mi,výsledok,výsledk,om,[7],vý|sled|ok,"[2, 6]"
+42,simple_examples,dlaň,sg,L,dlani,f,dlaň,dlan,i,[4],dlaň,[]
+43,simple_examples,kvet,pl,A,kvety,mi,zápas,kvet,y,[4],kvet,[]
+44,simple_examples,práca,pl,D,prácam,f,práca,prác,am,[4],prác|a,[4]
+45,simple_examples,dieťa,sg,L,dieťati,n,V-dieťa,dieťat,i,[6],dieť|a,[4]
+46,simple_examples,syn,pl,A,synov,mp,syn,syn,ov,[3],syn,[]
+47,simple_examples,človek,pl,N,ľudia,mp,V-človek,ľud,ia,[3],človek,[]
+48,simple_examples,brat,pl,L,bratoch,mp,priateľ,brat,och,[4],brat,[]
+49,simple_examples,more,pl,G,morí,n,V-more,mor,í,[3],mor|e,[3]
+50,simple_examples,kosť,pl,L,kostiach,f,možnosť,kost,iach,[4],kosť,[]
+51,random_general,tuzemec,pl,A,tuzemcov,mp,chlapec,tuzemc,ov,[6],tu|zem|ec,"[2, 5]"
+52,random_general,nadutec,sg,G,nadutca,mp,chlapec,nadutc,a,[6],na|du|t|ec,"[2, 4, 5]"
+53,random_general,klamnosť,pl,A,klamnosti,f,možnosť,klamnost,i,[8],klam|n|osť,"[4, 5]"
+54,random_general,pevec,pl,L,pevcoch,mp,chlapec,pevc,och,[4],pev|ec,[3]
+55,random_general,árijec,sg,A,árijca,mp,chlapec,árijc,a,[5],árij|ec,[4]
+56,random_general,broskyňa,pl,A,broskyne,f,ulica,broskyn,e,[7],brosk|yň|a,"[5, 7]"
+57,random_general,pričňa,sg,G,prične,f,poisťovňa,prične,ø,[],prič|ň|a,"[4, 5]"
+58,random_general,chlapec,sg,A,chlapca,mp,chlapec,chlapc,a,[6],chlap|ec,[5]
+59,random_general,alibizmus,sg,D,alibizmu,mi,problém,alibizm,u,[7],alib|izm|us,"[4, 7]"
+60,random_general,kolegyňa,sg,G,kolegyne,f,ulica,kolegyn,e,[7],koleg|yň|a,"[5, 7]"
+61,random_general,dyňa,pl,I,dyňami,f,ulica,dyň,ami,[3],dyň|a,[3]
+62,random_general,orgazmus,sg,L,orgazme,mi,problém,orgazm,e,[6],org|azm|us,"[3, 6]"
+63,random_general,impérium,sg,G,impéria,n,médium,impér,ia,[5],impéri|um,[6]
+64,random_general,marazmus,pl,A,marazmy,mi,problém,marazm,y,[6],marazm|us,[6]
+65,random_general,grémium,sg,A,grémium,n,médium,grémi,um,[5],grémi|um,[5]
+66,random_general,lyžiareň,pl,A,lyžiarne,f,elektráreň,lyžiarn,e,[7],lyž|iareň,[3]
+67,random_general,vášeň,pl,G,vášní,f,elektráreň,vášn,í,[4],vášeň,[]
+68,random_general,huňa,sg,A,huňu,f,poisťovňa,huňu,ø,[],huň|a,[3]
+69,random_general,tieseň,sg,L,tiesni,f,elektráreň,tiesn,i,[5],tieseň,[]
+70,random_general,baliareň,sg,D,baliarni,f,elektráreň,baliarn,i,[7],bal|iareň,[3]
+71,random_general,chladiareň,pl,N,chladiarne,f,elektráreň,chladiarn,e,[9],chlad|iareň,[5]
+72,random_general,babizňa,pl,N,babizne,f,poisťovňa,babizne,ø,[],bab|izň|a,"[3, 6]"
+73,random_general,taviareň,sg,A,taviareň,f,elektráreň,taviareň,ø,[],tav|iareň,[3]
+74,random_general,kaviareň,pl,A,kaviarne,f,elektráreň,kaviarn,e,[7],kav|iareň,[3]
+75,random_general,škraňa,sg,G,škrane,f,poisťovňa,škrane,ø,[],škraň|a,[5]
+76,random_general,kalcium,sg,L,kalciu,n,médium,kalc,iu,[4],kalc|i|um,"[4, 5]"
+77,random_general,morfium,sg,A,morfium,n,médium,morfi,um,[5],morf|i|um,"[4, 5]"
+78,random_general,tórium,sg,G,tória,n,médium,tór,ia,[3],tór|i|um,"[3, 4]"
+79,random_general,irídium,sg,D,irídiu,n,médium,iríd,iu,[4],iríd|i|um,"[4, 5]"
+80,random_general,lýceum,pl,I,lýceami,n,médium,lýce,ami,[4],lýce|um,[4]
+81,random_general,bór,pl,I,bórmi,mi,zápas,bór,mi,[3],bór,[]
+82,random_general,nedorozumenie,pl,L,nedorozumeniach,n,stretnutie,nedorozumen,iach,[11],ne|do|roz|um|en|ie,"[2, 4, 7, 9, 11]"
+83,random_general,špurtér,sg,G,špurtéra,mp,chlap,špurtér,a,[7],špurt|ér,[5]
+84,random_general,črievica,sg,I,črievicou,f,ulica,črievic,ou,[7],čriev|ic|a,"[5, 7]"
+85,random_general,povalnica,pl,A,povalnice,f,ulica,povalnic,e,[8],poval|nic|a,"[5, 8]"
+86,random_general,dokázateľnosť,pl,D,dokázateľnostiam,f,možnosť,dokázateľnost,iam,[13],do|káz|ateľn|osť,"[2, 5, 10]"
+87,random_general,dekan,sg,I,dekanom,mp,chlap,dekan,om,[5],dek|an,[3]
+88,random_general,automotoklub,pl,L,automotokluboch,mi,zápas,automotoklub,och,[12],aut|o|mot|o|klub,"[3, 4, 7, 8]"
+89,random_general,racionalizátor,sg,L,racionalizátorovi,mp,chlap,racionalizátor,ovi,[14],raci|onal|izát|or,"[4, 8, 12]"
+90,random_general,výslednica,pl,I,výslednicami,f,ulica,výslednic,ami,[9],vý|sled|n|ic|a,"[2, 6, 7, 9]"
+91,random_general,žobrák,sg,G,žobráka,mp,chlap,žobrák,a,[6],žobr|ák,[4]
+92,random_general,ničomník,sg,D,ničomníkovi,mp,chlap,ničomník,ovi,[8],nič|omn|ík,"[3, 6]"
+93,random_general,plavčík,pl,I,plavčíkmi,mp,chlap,plavčík,mi,[7],plav|čík,[4]
+94,random_general,vážnosť,sg,A,vážnosť,f,možnosť,vážnosť,ø,[],váž|n|osť,"[3, 4]"
+95,random_general,lump,pl,D,lumpom,mp,chlap,lump,om,[4],lump,[]
+96,random_general,čeľustie,sg,I,čeľustím,n,stretnutie,čeľust,ím,[6],čeľust|ie,[6]
+97,random_general,súkvetie,pl,G,súkvetí,n,stretnutie,súkvet,í,[6],sú|kvet|ie,"[2, 6]"
+98,random_general,blazeovanosť,pl,N,blazeovanosti,f,možnosť,blazeovanost,i,[12],blaze|ovan|osť,"[5, 9]"
+99,random_general,biceps,sg,G,bicepsu,mi,zápas,biceps,u,[6],bi|ceps,[2]
+100,random_general,vajcorodosť,sg,A,vajcorodosť,f,možnosť,vajcorodosť,ø,[],vajc|o|rod|osť,"[4, 5, 8]"
+101,random_general,chápanie,pl,G,chápaní,n,stretnutie,chápan,í,[6],cháp|an|ie,"[4, 6]"
+102,random_general,schizofrenik,pl,A,schizofrenikov,mp,chlap,schizofrenik,ov,[12],schiz|o|fren|ik,"[5, 6, 10]"
+103,random_general,nadchod,pl,G,nadchodov,mi,zápas,nadchod,ov,[7],nad|chod,[3]
+104,random_general,konjunkturálnosť,sg,G,konjunkturálnosti,f,možnosť,konjunkturálnost,i,[16],konjunkt|ur|áln|osť,"[8, 10, 13]"
+105,random_general,exulant,sg,I,exulantom,mp,chlap,exulant,om,[7],exul|ant,[4]
+106,random_general,elementárnosť,sg,G,elementárnosti,f,možnosť,elementárnost,i,[13],el|ement|árn|osť,"[2, 7, 10]"
+107,random_general,aids,pl,D,aidsom,mi,zápas,aids,om,[4],aids,[]
+108,random_general,mnohosť,sg,G,mnohosti,f,možnosť,mnohost,i,[7],mnoh|osť,[4]
+109,random_general,svetonáhľad,sg,D,svetonáhľadu,mi,zápas,svetonáhľad,u,[11],svet|o|ná|hľad,"[4, 5, 7]"
+110,random_general,ťažkopádnosť,pl,I,ťažkopádnosťami,f,možnosť,ťažkopádnosť,ami,[12],ťaž|k|o|pád|n|osť,"[3, 4, 5, 8, 9]"
+111,random_general,podozrievavosť,pl,D,podozrievavostiam,f,možnosť,podozrievavost,iam,[14],podozr|iev|av|osť,"[6, 9, 11]"
+112,random_general,prakticista,pl,N,prakticisti,mp,futbalista,prakticist,i,[10],prakt|ic|ist|a,"[5, 7, 10]"
+113,random_general,septimán,pl,N,septimáni,mp,chlap,septimán,i,[8],septim|án,[6]
+114,random_general,poradie,sg,D,poradiu,n,stretnutie,porad,iu,[5],po|rad|ie,"[2, 5]"
+115,random_general,štekot,sg,A,štekot,mi,zápas,štekot,ø,[],štek|ot,[4]
+116,random_general,drobnochov,pl,G,drobnochovov,mi,zápas,drobnochov,ov,[10],drob|n|o|chov,"[4, 5, 6]"
+117,random_general,prekážkar,pl,A,prekážkarov,mp,chlap,prekážkar,ov,[9],pre|káž|k|ar,"[3, 6, 7]"
+118,random_general,nekalosť,sg,I,nekalosťou,f,možnosť,nekalosť,ou,[8],nekal|osť,[5]
+119,random_general,elektromechanik,sg,L,elektromechanikovi,mp,chlap,elektromechanik,ovi,[15],elektr|o|mechan|ik,"[6, 7, 13]"
+120,random_general,úchylkár,pl,N,úchylkári,mp,chlap,úchylkár,i,[8],ú|chyl|k|ár,"[1, 5, 6]"
+121,random_general,papierovosť,pl,L,papierovostiach,f,možnosť,papierovost,iach,[11],papier|ov|osť,"[6, 8]"
+122,random_general,pohostinnosť,pl,G,pohostinností,f,možnosť,pohostinnost,í,[12],po|host|inn|osť,"[2, 6, 9]"
+123,random_general,roztúženosť,pl,N,roztúženosti,f,možnosť,roztúženost,i,[11],roz|túž|en|osť,"[3, 6, 8]"
+124,random_general,opojenie,sg,A,opojenie,n,stretnutie,opojen,ie,[6],o|poj|en|ie,"[1, 4, 6]"
+125,random_general,kontrabas,sg,A,kontrabas,mi,zápas,kontrabas,ø,[],kontra|bas,[6]
+126,random_general,impresionista,sg,L,impresionistovi,mp,futbalista,impresionist,ovi,[12],im|pres|i|onist|a,"[2, 6, 7, 12]"
+127,random_general,evanjelik,pl,N,evanjelici,mp,chlap,evanjelic,i,[9],ev|anjel|ik,"[2, 7]"
+128,random_general,optimista,sg,G,optimistu,mp,futbalista,optimist,u,[8],optim|ist|a,"[5, 8]"
+129,random_general,prézent,sg,L,prézente,mi,zápas,prézent,e,[7],préz|ent,[4]
+130,random_general,zvrátenosť,sg,G,zvrátenosti,f,možnosť,zvrátenost,i,[10],z|vrát|en|osť,"[1, 5, 7]"
+131,random_general,heraklit,sg,D,heraklitu,mi,zápas,heraklit,u,[8],heraklit,[]
+132,random_general,charleston,pl,I,charlestonmi,mi,zápas,charleston,mi,[10],charleston,[]
+133,random_general,súbor,pl,D,súborom,mi,zápas,súbor,om,[5],sú|bor,[2]
+134,random_general,hladomor,sg,G,hladomoru,mi,zápas,hladomor,u,[8],hlad|o|mor,"[4, 5]"
+135,random_general,prianie,sg,L,prianí,n,stretnutie,prian,í,[5],pria|n|ie,"[4, 5]"
+136,random_general,vehementnosť,sg,D,vehementnosti,f,možnosť,vehementnost,i,[12],vehem|ent|n|osť,"[5, 8, 9]"
+137,random_general,farbitosť,pl,N,farbitosti,f,možnosť,farbitost,i,[9],farb|itosť,[4]
+138,random_general,vzlínavosť,pl,N,vzlínavosti,f,možnosť,vzlínavost,i,[10],vz|lín|av|osť,"[2, 5, 7]"
+139,random_general,fachman,sg,G,fachmana,mp,chlap,fachman,a,[7],fach|man,[4]
+140,random_general,brucháč,sg,A,brucháča,mp,chlap,brucháč,a,[7],bruch|áč,[5]
+141,random_general,parapet,pl,N,parapety,mi,zápas,parapet,y,[7],parapet,[]
+142,random_general,nestraník,pl,L,nestraníkoch,mp,chlap,nestraník,och,[9],ne|stran|ík,"[2, 7]"
+143,random_general,dobrovoľnosť,sg,A,dobrovoľnosť,f,možnosť,dobrovoľnosť,ø,[],dobr|o|voľ|n|osť,"[4, 5, 8, 9]"
+144,random_general,ultramodernosť,pl,G,ultramoderností,f,možnosť,ultramodernost,í,[14],ultra|modern|osť,"[5, 11]"
+145,random_general,röntgen,sg,L,röntgene,mi,zápas,röntgen,e,[7],röntgen,[]
+146,random_general,hriate,pl,A,hriate,n,hriate,hriat,e,[5],hria|t|e,"[4, 5]"
+147,random_general,skĺznica,pl,I,skĺznicami,f,ulica,skĺznic,ami,[7],s|kĺz|nic|a,"[1, 4, 7]"
+148,random_general,šklban,sg,D,šklbanovi,mp,chlap,šklban,ovi,[6],šklb|an,[4]
+149,random_general,sprosták,sg,D,sprostákovi,mp,chlap,sprosták,ovi,[8],sprost|ák,[6]
+150,random_general,piskot,pl,L,piskotoch,mi,zápas,piskot,och,[6],pisk|ot,[4]
+151,random_general,protirečenie,pl,N,protirečenia,n,stretnutie,protirečen,ia,[10],proti|reč|en|ie,"[5, 8, 10]"
+152,random_general,mnohovýznamnosť,sg,A,mnohovýznamnosť,f,možnosť,mnohovýznamnosť,ø,[],mnoh|o|vý|znam|n|osť,"[4, 5, 7, 11, 12]"
+153,random_general,klub,pl,N,kluby,mi,zápas,klub,y,[4],klub,[]
+154,random_general,pozitívnosť,sg,D,pozitívnosti,f,možnosť,pozitívnost,i,[11],poz|it|ív|n|osť,"[3, 5, 7, 8]"
+155,random_general,prierez,sg,D,prierezu,mi,zápas,prierez,u,[7],prie|rez,[4]
+156,random_general,ťulpas,pl,D,ťulpasom,mp,chlap,ťulpas,om,[6],ťulpas,[]
+157,random_general,tyrkys,sg,I,tyrkysom,mi,zápas,tyrkys,om,[6],tyrkys,[]
+158,random_general,senátor,pl,I,senátormi,mp,chlap,senátor,mi,[7],sen|át|or,"[3, 5]"
+159,random_general,dvojstrannosť,pl,G,dvojstranností,f,možnosť,dvojstrannost,í,[13],dv|oj|stran|n|osť,"[2, 4, 9, 10]"
+160,random_general,výžin,sg,D,výžinu,mi,zápas,výžin,u,[5],vý|žin,[2]
+161,random_general,nerozumnosť,pl,I,nerozumnosťami,f,možnosť,nerozumnosť,ami,[11],ne|roz|um|n|osť,"[2, 5, 7, 8]"
+162,random_general,krštenie,sg,A,krštenie,n,stretnutie,kršten,ie,[6],kršt|en|ie,"[4, 6]"
+163,random_general,fotogenickosť,sg,L,fotogenickosti,f,možnosť,fotogenickost,i,[13],fot|o|gen|ick|osť,"[3, 4, 7, 10]"
+164,random_general,plynotesnosť,pl,L,plynotesnostiach,f,možnosť,plynotesnost,iach,[12],plyn|o|tesn|osť,"[4, 5, 9]"
+165,random_general,prechmat,pl,D,prechmatom,mi,zápas,prechmat,om,[8],pre|chmat,[3]
+166,random_general,rozumnosť,sg,I,rozumnosťou,f,možnosť,rozumnosť,ou,[9],roz|um|n|osť,"[3, 5, 6]"
+167,random_general,eufonickosť,sg,D,eufonickosti,f,možnosť,eufonickost,i,[11],eu|fon|ick|osť,"[2, 5, 8]"
+168,random_general,najdúch,pl,I,najdúchmi,mp,chlap,najdúch,mi,[7],najd|úch,[4]
+169,random_general,štras,sg,D,štrasu,mi,zápas,štras,u,[5],štras,[]
+170,random_general,štedrák,pl,I,štedrákmi,mp,chlap,štedrák,mi,[7],štedr|ák,[5]
+171,random_general,síran,pl,G,síranov,mi,zápas,síran,ov,[5],sír|an,[3]
+172,random_general,chatrnosť,pl,N,chatrnosti,f,možnosť,chatrnost,i,[9],chatr|n|osť,"[5, 6]"
+173,random_general,amulet,pl,I,amuletmi,mi,zápas,amulet,mi,[6],amulet,[]
+174,random_general,eurodlhopis,pl,G,eurodlhopisov,mi,zápas,eurodlhopis,ov,[11],eur|o|dlh|o|pis,"[3, 4, 7, 8]"
+175,random_general,hlaváň,pl,N,hlaváni,mp,chlap,hlaván,i,[6],hlav|áň,[4]
+176,random_general,imbecil,pl,D,imbecilom,mp,chlap,imbecil,om,[7],imbecil,[]
+177,random_general,háklivosť,sg,I,háklivosťou,f,možnosť,háklivosť,ou,[9],hákl|iv|osť,"[4, 6]"
+178,random_general,sietnica,sg,L,sietnici,f,ulica,sietnic,i,[7],siet|nic|a,"[4, 7]"
+179,random_general,mihalnica,sg,G,mihalnice,f,ulica,mihalnic,e,[8],mih|alnic|a,"[3, 8]"
+180,random_general,kreslič,sg,G,kresliča,mp,chlap,kreslič,a,[7],kres|l|ič,"[4, 5]"
+181,random_general,pedikér,pl,L,pedikéroch,mp,chlap,pedikér,och,[7],ped|i|k|ér,"[3, 4, 5]"
+182,random_general,projektant,pl,G,projektantov,mp,chlap,projektant,ov,[10],projekt|ant,[7]
+183,random_general,ľubovoľnosť,sg,A,ľubovoľnosť,f,možnosť,ľubovoľnosť,ø,[],ľub|o|voľ|n|osť,"[3, 4, 7, 8]"
+184,random_general,žoržet,pl,G,žoržetov,mi,zápas,žoržet,ov,[6],žoržet,[]
+185,random_general,napínavosť,pl,G,napínavostí,f,možnosť,napínavost,í,[10],na|pín|av|osť,"[2, 5, 7]"
+186,random_general,táravosť,pl,I,táravosťami,f,možnosť,táravosť,ami,[8],tár|av|osť,"[3, 5]"
+187,random_general,kolíznosť,pl,N,kolíznosti,f,možnosť,kolíznost,i,[9],kolíz|n|osť,"[5, 6]"
+188,random_general,riešenie,sg,I,riešením,n,stretnutie,riešen,ím,[6],rieš|en|ie,"[4, 6]"
+189,random_general,personálnosť,pl,I,personálnosťami,f,možnosť,personálnosť,ami,[12],person|ál|n|osť,"[6, 8, 9]"
+190,random_general,keratín,sg,G,keratínu,mi,zápas,keratín,u,[7],kerat|ín,[5]
+191,random_general,hymnus,sg,A,hymnus,mi,zápas,hymnus,ø,[],hymn|us,[4]
+192,random_general,prievoz,pl,G,prievozov,mi,zápas,prievoz,ov,[7],prie|voz,[4]
+193,random_general,dobrosrdečnosť,pl,G,dobrosrdečností,f,možnosť,dobrosrdečnost,í,[14],dobr|o|srd|eč|n|osť,"[4, 5, 8, 10, 11]"
+194,random_general,psovod,pl,G,psovodov,mp,chlap,psovod,ov,[6],ps|o|vod,"[2, 3]"
+195,random_general,džbankár,pl,N,džbankári,mp,chlap,džbankár,i,[8],džban|k|ár,"[5, 6]"
+196,random_general,fičúr,sg,G,fičúra,mp,chlap,fičúr,a,[5],fičúr,[]
+197,random_general,svojvoľnosť,sg,A,svojvoľnosť,f,možnosť,svojvoľnosť,ø,[],svoj|voľ|n|osť,"[4, 7, 8]"
+198,random_general,aparátnik,sg,A,aparátnika,mp,chlap,aparátnik,a,[9],aparát|nik,[6]
+199,random_general,šiplavosť,sg,L,šiplavosti,f,možnosť,šiplavost,i,[9],šipl|av|osť,"[4, 6]"
+200,random_general,hmlovitosť,sg,D,hmlovitosti,f,možnosť,hmlovitost,i,[10],hml|ovit|osť,"[3, 7]"
+201,random_general,muž,sg,G,muža,mp,chlap,muž,a,[3],muž,[]
+202,random_general,antigén,pl,A,antigény,mi,zápas,antigén,y,[7],anti|gén,[4]
+203,random_general,financ,sg,A,financa,mp,chlap,financ,a,[6],financ,[]
+204,random_general,snúbenica,pl,I,snúbenicami,f,ulica,snúbenic,ami,[8],snúb|en|ic|a,"[4, 6, 8]"
+205,random_general,debil,sg,D,debilovi,mp,chlap,debil,ovi,[5],debil,[]
+206,random_general,zbrojnica,pl,A,zbrojnice,f,ulica,zbrojnic,e,[8],z|broj|nic|a,"[1, 5, 8]"
+207,random_general,ústupčivosť,sg,G,ústupčivosti,f,možnosť,ústupčivost,i,[11],ú|stup|čiv|osť,"[1, 5, 8]"
+208,random_general,výpravnosť,sg,I,výpravnosťou,f,možnosť,výpravnosť,ou,[10],vý|prav|n|osť,"[2, 6, 7]"
+209,random_general,kupón,pl,I,kupónmi,mi,zápas,kupón,mi,[5],kupón,[]
+210,random_general,kolportér,sg,G,kolportéra,mp,chlap,kolportér,a,[9],kolport|ér,[7]
+211,random_general,chaos,sg,D,chaosu,mi,zápas,chaos,u,[5],chaos,[]
+212,random_general,insinuant,sg,G,insinuanta,mp,chlap,insinuant,a,[9],insinu|ant,[6]
+213,random_general,zázračník,pl,N,zázračníci,mp,chlap,zázračníc,i,[9],zázrač|n|ík,"[6, 7]"
+214,random_general,ultrapravica,pl,A,ultrapravice,f,ulica,ultrapravic,e,[11],ultra|prav|ic|a,"[5, 9, 11]"
+215,random_general,toluén,pl,I,toluénmi,mi,zápas,toluén,mi,[6],tolu|én,[4]
+216,random_general,protivnosť,pl,G,protivností,f,možnosť,protivnost,í,[10],protiv|n|osť,"[6, 7]"
+217,random_general,prídel,pl,I,prídelmi,mi,zápas,prídel,mi,[6],prí|del,[3]
+218,random_general,pojašenosť,pl,G,pojašeností,f,možnosť,pojašenost,í,[10],po|jaš|en|osť,"[2, 5, 7]"
+219,random_general,nefalšovanosť,sg,L,nefalšovanosti,f,možnosť,nefalšovanost,i,[13],ne|falš|ov|an|osť,"[2, 6, 8, 10]"
+220,random_general,uzlovitosť,pl,I,uzlovitosťami,f,možnosť,uzlovitosť,ami,[10],uzl|ovit|osť,"[3, 7]"
+221,random_general,inseminátor,sg,A,inseminátora,mp,chlap,inseminátor,a,[11],in|semin|át|or,"[2, 7, 9]"
+222,random_general,prelát,pl,A,prelátov,mp,chlap,prelát,ov,[6],prelát,[]
+223,random_general,hotovosť,sg,I,hotovosťou,f,možnosť,hotovosť,ou,[8],hotov|osť,[5]
+224,random_general,operatér,sg,D,operatérovi,mp,chlap,operatér,ovi,[8],oper|at|ér,"[4, 6]"
+225,random_general,čitateľnosť,sg,D,čitateľnosti,f,možnosť,čitateľnost,i,[11],čit|ateľn|osť,"[3, 8]"
+226,random_general,paralelnosť,sg,I,paralelnosťou,f,možnosť,paralelnosť,ou,[11],paralel|n|osť,"[7, 8]"
+227,random_general,tradicionalista,sg,A,tradicionalistu,mp,futbalista,tradicionalist,u,[14],trad|ici|onalist|a,"[4, 7, 14]"
+228,random_general,bigotnosť,sg,A,bigotnosť,f,možnosť,bigotnosť,ø,[],bigot|n|osť,"[5, 6]"
+229,random_general,úval,sg,L,úvale,mi,zápas,úval,e,[4],ú|val,[1]
+230,random_general,dobročinnosť,sg,G,dobročinnosti,f,možnosť,dobročinnost,i,[12],dobr|o|čin|n|osť,"[4, 5, 8, 9]"
+231,random_general,donášač,sg,G,donášača,mp,chlap,donášač,a,[7],do|náš|ač,"[2, 5]"
+232,random_general,audiovýstup,sg,D,audiovýstupu,mi,zápas,audiovýstup,u,[11],audi|o|vý|stup,"[4, 5, 7]"
+233,random_general,slizovitosť,pl,G,slizovitostí,f,možnosť,slizovitost,í,[11],sliz|ovit|osť,"[4, 8]"
+234,random_general,rys,pl,A,rysy,ma,had,rys,y,[3],rys,[]
+235,random_general,odbor,pl,D,odborom,mi,zápas,odbor,om,[5],odbor,[]
+236,random_general,rozľahlosť,sg,D,rozľahlosti,f,možnosť,rozľahlost,i,[10],roz|ľah|l|osť,"[3, 6, 7]"
+237,random_general,fujavica,pl,G,fujavíc,f,ulica,fujavíc,ø,[],fuj|avic|a,"[3, 7]"
+238,random_general,filharmonik,pl,G,filharmonikov,mp,chlap,filharmonik,ov,[11],fil|harmon|ik,"[3, 9]"
+239,random_general,skľúčenosť,pl,I,skľúčenosťami,f,možnosť,skľúčenosť,ami,[10],skľúč|en|osť,"[5, 7]"
+240,random_general,revanšista,sg,D,revanšistovi,mp,futbalista,revanšist,ovi,[9],revanš|ist|a,"[6, 9]"
+241,random_general,priepasť,sg,A,priepasť,f,možnosť,priepasť,ø,[],prie|pasť,[4]
+242,random_general,súvetie,sg,G,súvetia,n,stretnutie,súvet,ia,[5],sú|vet|ie,"[2, 5]"
+243,random_general,neočakávanosť,pl,D,neočakávanostiam,f,možnosť,neočakávanost,iam,[13],ne|o|čak|áv|an|osť,"[2, 3, 6, 8, 10]"
+244,random_general,ťarchavosť,pl,I,ťarchavosťami,f,možnosť,ťarchavosť,ami,[10],ťarch|av|osť,"[5, 7]"
+245,random_general,pamäť,sg,G,pamäti,f,možnosť,pamät,i,[5],pamäť,[]
+246,random_general,apretátor,pl,D,apretátorom,mp,chlap,apretátor,om,[9],apret|át|or,"[5, 7]"
+247,random_general,fujarista,pl,A,fujaristov,mp,futbalista,fujarist,ov,[8],fujar|ist|a,"[5, 8]"
+248,random_general,krov,pl,D,krovom,mi,zápas,krov,om,[4],kro|v,[3]
+249,random_general,fixír,sg,L,fixíre,mi,zápas,fixír,e,[5],fix|ír,[3]
+250,random_general,irelevantnosť,pl,G,irelevantností,f,možnosť,irelevantnost,í,[13],i|relev|antn|osť,"[1, 6, 10]"
+251,random_general,latinčinár,pl,G,latinčinárov,mp,chlap,latinčinár,ov,[10],latin|čin|ár,"[5, 8]"
+252,random_general,atematickosť,sg,L,atematickosti,f,možnosť,atematickost,i,[12],a|tem|atic|k|osť,"[1, 4, 8, 9]"
+253,random_general,diverzant,pl,G,diverzantov,mp,chlap,diverzant,ov,[9],diverz|ant,[6]
+254,random_general,triednosť,pl,I,triednosťami,f,možnosť,triednosť,ami,[9],tried|n|osť,"[5, 6]"
+255,random_general,bohoslovie,pl,L,bohosloviach,n,stretnutie,bohoslov,iach,[8],boh|o|slov|ie,"[3, 4, 8]"
+256,random_general,bibliograf,pl,I,bibliografmi,mp,chlap,bibliograf,mi,[10],bibl|i|o|graf,"[4, 5, 6]"
+257,random_general,dokumentárnosť,pl,D,dokumentárnostiam,f,možnosť,dokumentárnost,iam,[14],dok|ument|árn|osť,"[3, 8, 11]"
+258,random_general,odhad,sg,I,odhadom,mi,zápas,odhad,om,[5],od|had,[2]
+259,random_general,lakovač,sg,G,lakovača,mp,chlap,lakovač,a,[7],lak|ov|ač,"[3, 5]"
+260,random_general,záhlavie,pl,D,záhlaviam,n,stretnutie,záhlav,iam,[6],zá|hlav|ie,"[2, 6]"
+261,random_general,introvert,sg,L,introvertovi,mp,chlap,introvert,ovi,[9],intro|vert,[5]
+262,random_general,inzulín,pl,A,inzulíny,mi,zápas,inzulín,y,[7],inzul|ín,[5]
+263,random_general,tetanus,pl,N,tetanusy,mi,zápas,tetanus,y,[7],tetan|us,[5]
+264,random_general,sociálnosť,sg,G,sociálnosti,f,možnosť,sociálnost,i,[10],soci|áln|osť,"[4, 7]"
+265,random_general,trudnosť,sg,G,trudnosti,f,možnosť,trudnost,i,[8],trud|n|osť,"[4, 5]"
+266,random_general,ľad,sg,A,ľad,mi,zápas,ľad,ø,[],ľad,[]
+267,random_general,šimpanzica,pl,D,šimpanziciam,f,ulica,šimpanzic,iam,[9],šimpanz|ic|a,"[7, 9]"
+268,random_general,záložník,sg,G,záložníka,mp,chlap,záložník,a,[8],zá|lož|ník,"[2, 5]"
+269,random_general,spletitosť,sg,G,spletitosti,f,možnosť,spletitost,i,[10],s|plet|it|osť,"[1, 5, 7]"
+270,random_general,vred,pl,G,vredov,mi,zápas,vred,ov,[4],vred,[]
+271,random_general,oblačnosť,sg,A,oblačnosť,f,možnosť,oblačnosť,ø,[],oblač|n|osť,"[5, 6]"
+272,random_general,neduživosť,pl,N,neduživosti,f,možnosť,neduživost,i,[10],ne|duž|iv|osť,"[2, 5, 7]"
+273,random_general,aditívnosť,pl,I,aditívnosťami,f,možnosť,aditívnosť,ami,[10],adit|ív|n|osť,"[4, 6, 7]"
+274,random_general,zaručenosť,sg,D,zaručenosti,f,možnosť,zaručenost,i,[10],za|ruč|en|osť,"[2, 5, 7]"
+275,random_general,hrot,sg,G,hrotu,mi,zápas,hrot,u,[4],hrot,[]
+276,random_general,krušnosť,pl,L,krušnostiach,f,možnosť,krušnost,iach,[8],kruš|n|osť,"[4, 5]"
+277,random_general,odpad,pl,I,odpadmi,mi,zápas,odpad,mi,[5],od|pad,[2]
+278,random_general,nezamestnanosť,pl,G,nezamestnaností,f,možnosť,nezamestnanost,í,[14],ne|za|mest|n|an|osť,"[2, 4, 8, 9, 11]"
+279,random_general,úklad,pl,L,úkladoch,mi,zápas,úklad,och,[5],ú|klad,[1]
+280,random_general,monologickosť,sg,D,monologickosti,f,možnosť,monologickost,i,[13],mon|o|log|ick|osť,"[3, 4, 7, 10]"
+281,random_general,informatik,pl,D,informatikom,mp,chlap,informatik,om,[10],inform|at|ik,"[6, 8]"
+282,random_general,peciar,sg,L,peciarovi,mp,chlap,peciar,ovi,[6],pec|iar,[3]
+283,random_general,trhan,sg,I,trhanom,mp,chlap,trhan,om,[5],trh|an,[3]
+284,random_general,aglomerát,pl,A,aglomeráty,mi,zápas,aglomerát,y,[9],aglomer|át,[7]
+285,random_general,nevypočítateľnosť,pl,L,nevypočítateľnostiach,f,možnosť,nevypočítateľnost,iach,[17],ne|vy|po|čít|ateľn|osť,"[2, 4, 6, 9, 14]"
+286,random_general,cieľavedomosť,pl,L,cieľavedomostiach,f,možnosť,cieľavedomost,iach,[13],cieľ|a|ved|om|osť,"[4, 5, 8, 10]"
+287,random_general,bankár,pl,A,bankárov,mp,chlap,bankár,ov,[6],bank|ár,[4]
+288,random_general,šikovnica,sg,L,šikovnici,f,ulica,šikovnic,i,[8],šik|ovn|ic|a,"[3, 6, 8]"
+289,random_general,štrbavosť,pl,D,štrbavostiam,f,možnosť,štrbavost,iam,[9],štrb|av|osť,"[4, 6]"
+290,random_general,flegmatickosť,sg,I,flegmatickosťou,f,možnosť,flegmatickosť,ou,[13],flegm|atic|k|osť,"[5, 9, 10]"
+291,random_general,vyhladnutosť,sg,L,vyhladnutosti,f,možnosť,vyhladnutost,i,[12],vy|hlad|n|ut|osť,"[2, 6, 7, 9]"
+292,random_general,referent,sg,G,referenta,mp,chlap,referent,a,[8],refer|ent,[5]
+293,random_general,lanár,sg,L,lanárovi,mp,chlap,lanár,ovi,[5],lan|ár,[3]
+294,random_general,útes,sg,I,útesom,mi,zápas,útes,om,[4],útes,[]
+295,random_general,omamnosť,sg,A,omamnosť,f,možnosť,omamnosť,ø,[],o|mam|n|osť,"[1, 4, 5]"
+296,random_general,priepastnosť,sg,G,priepastnosti,f,možnosť,priepastnost,i,[12],prie|past|n|osť,"[4, 8, 9]"
+297,random_general,chytač,sg,A,chytača,mp,chlap,chytač,a,[6],chyt|ač,[4]
+298,random_general,samooplodnenie,pl,I,samooplodneniami,n,stretnutie,samooplodnen,iami,[12],sam|o|o|plod|n|en|ie,"[3, 4, 5, 9, 10, 12]"
+299,random_general,zrastenosť,pl,D,zrastenostiam,f,možnosť,zrastenost,iam,[10],z|rast|en|osť,"[1, 5, 7]"
+300,random_general,neznelosť,sg,I,neznelosťou,f,možnosť,neznelosť,ou,[9],ne|zn|el|osť,"[2, 4, 6]"
+301,random_general,trblet,sg,A,trblet,mi,zápas,trblet,ø,[],trbl|et,[4]
+302,random_general,dobrotivosť,pl,G,dobrotivostí,f,možnosť,dobrotivost,í,[11],dobr|ot|iv|osť,"[4, 6, 8]"
+303,random_general,mútnosť,sg,A,mútnosť,f,možnosť,mútnosť,ø,[],mút|n|osť,"[3, 4]"
+304,random_general,súmestie,sg,A,súmestie,n,stretnutie,súmest,ie,[6],sú|mest|ie,"[2, 6]"
+305,random_general,naháč,pl,D,naháčom,mp,chlap,naháč,om,[5],nah|áč,[3]
+306,random_general,odmietavosť,sg,A,odmietavosť,f,možnosť,odmietavosť,ø,[],od|miet|av|osť,"[2, 6, 8]"
+307,random_general,úpadkovosť,pl,G,úpadkovostí,f,možnosť,úpadkovost,í,[10],ú|pad|k|ov|osť,"[1, 4, 5, 7]"
+308,random_general,náraz,sg,L,náraze,mi,zápas,náraz,e,[5],ná|raz,[2]
+309,random_general,extrakt,sg,L,extrakte,mi,zápas,extrakt,e,[7],extrak|t,[6]
+310,random_general,fundamentálnosť,pl,I,fundamentálnosťami,f,možnosť,fundamentálnosť,ami,[15],fund|ament|áln|osť,"[4, 9, 12]"
+311,random_general,odstav,sg,L,odstave,mi,zápas,odstav,e,[6],od|sta|v,"[2, 5]"
+312,random_general,templár,sg,D,templárovi,mp,chlap,templár,ovi,[7],templ|ár,[5]
+313,random_general,kameraman,pl,D,kameramanom,mp,chlap,kameraman,om,[9],kamer|a|man,"[5, 6]"
+314,random_general,grif,sg,D,grifu,mi,zápas,grif,u,[4],grif,[]
+315,random_general,metal,pl,D,metalom,mi,zápas,metal,om,[5],metal,[]
+316,random_general,rozprávkar,pl,N,rozprávkari,mp,chlap,rozprávkar,i,[10],roz|práv|k|ar,"[3, 7, 8]"
+317,random_general,časomer,pl,N,časomery,mi,zápas,časomer,y,[7],čas|o|mer,"[3, 4]"
+318,random_general,otáčkomer,pl,A,otáčkomery,mi,zápas,otáčkomer,y,[9],o|táč|k|o|mer,"[1, 4, 5, 6]"
+319,random_general,holáň,pl,N,holáni,mp,chlap,holán,i,[5],hol|áň,[3]
+320,random_general,kindžal,sg,L,kindžale,mi,zápas,kindžal,e,[7],kindžal,[]
+321,random_general,formant,pl,A,formanty,mi,zápas,formant,y,[7],form|ant,[4]
+322,random_general,opus,pl,N,opusy,mi,zápas,opus,y,[4],opus,[]
+323,random_general,elektrotechnik,pl,A,elektrotechnikov,mp,chlap,elektrotechnik,ov,[14],elektr|o|techn|ik,"[6, 7, 12]"
+324,random_general,konštrukt,pl,D,konštruktom,mi,zápas,konštrukt,om,[9],kon|štruk|t,"[3, 8]"
+325,random_general,trakt,pl,N,trakty,mi,zápas,trakt,y,[5],trakt,[]
+326,random_general,blondiak,pl,G,blondiakov,mp,chlap,blondiak,ov,[8],blond|iak,[5]
+327,random_general,odklon,pl,I,odklonmi,mi,zápas,odklon,mi,[6],od|klon,[2]
+328,random_general,multivitamín,sg,L,multivitamíne,mi,zápas,multivitamín,e,[12],mult|i|vitamín,"[4, 5]"
+329,random_general,zápalistosť,sg,L,zápalistosti,f,možnosť,zápalistost,i,[11],zá|pal|ist|osť,"[2, 5, 8]"
+330,random_general,poriadnosť,pl,D,poriadnostiam,f,možnosť,poriadnost,iam,[10],po|riad|n|osť,"[2, 6, 7]"
+331,random_general,sad,pl,I,sadmi,mi,zápas,sad,mi,[3],sad,[]
+332,random_general,automechanik,pl,N,automechanici,mp,chlap,automechanic,i,[12],aut|o|mechan|ik,"[3, 4, 10]"
+333,random_general,karbolín,sg,G,karbolínu,mi,zápas,karbolín,u,[8],karb|ol|ín,"[4, 6]"
+334,random_general,profil,sg,L,profile,mi,zápas,profil,e,[6],profil,[]
+335,random_general,ustanovenie,pl,A,ustanovenia,n,stretnutie,ustanoven,ia,[9],u|stan|ov|en|ie,"[1, 5, 7, 9]"
+336,random_general,rektorát,pl,A,rektoráty,mi,zápas,rektorát,y,[8],rekt|or|át,"[4, 6]"
+337,random_general,neženskosť,sg,I,neženskosťou,f,možnosť,neženskosť,ou,[10],ne|žen|sk|osť,"[2, 5, 7]"
+338,random_general,zanedbanosť,sg,A,zanedbanosť,f,možnosť,zanedbanosť,ø,[],za|ne|db|an|osť,"[2, 4, 6, 8]"
+339,random_general,svetobežník,pl,G,svetobežníkov,mp,chlap,svetobežník,ov,[11],svet|o|bež|ník,"[4, 5, 8]"
+340,random_general,chrasť,sg,A,chrasť,f,možnosť,chrasť,ø,[],chrasť,[]
+341,random_general,sobášnosť,pl,D,sobášnostiam,f,možnosť,sobášnost,iam,[9],sobáš|n|osť,"[5, 6]"
+342,random_general,pragmatickosť,pl,A,pragmatickosti,f,možnosť,pragmatickost,i,[13],pragm|atick|osť,"[5, 10]"
+343,random_general,exotickosť,pl,G,exotickostí,f,možnosť,exotickost,í,[10],exot|ic|k|osť,"[4, 6, 7]"
+344,random_general,hydinár,pl,D,hydinárom,mp,chlap,hydinár,om,[7],hyd|in|ár,"[3, 5]"
+345,random_general,volt,pl,G,voltov,mi,zápas,volt,ov,[4],volt,[]
+346,random_general,kredit,sg,A,kredit,mi,zápas,kredit,ø,[],kred|it,[4]
+347,random_general,vyrozumenie,pl,G,vyrozumení,n,stretnutie,vyrozumen,í,[9],vy|roz|um|en|ie,"[2, 5, 7, 9]"
+348,random_general,citát,sg,L,citáte,mi,zápas,citát,e,[5],cit|át,[3]
+349,random_general,korenie,sg,A,korenie,n,stretnutie,koren,ie,[5],koren|ie,[5]
+350,random_general,dvojdetnosť,pl,L,dvojdetnostiach,f,možnosť,dvojdetnost,iach,[11],dv|oj|det|n|osť,"[2, 4, 7, 8]"
+351,random_general,splavnosť,pl,N,splavnosti,f,možnosť,splavnost,i,[9],s|plav|n|osť,"[1, 5, 6]"
+352,random_general,triumvirát,sg,A,triumvirát,mi,zápas,triumvirát,ø,[],tri|um|vir|át,"[3, 5, 8]"
+353,random_general,silikát,sg,I,silikátom,mi,zápas,silikát,om,[7],sil|ikát,[3]
+354,random_general,súlad,pl,I,súladmi,mi,zápas,súlad,mi,[5],sú|lad,[2]
+355,random_general,zamat,pl,D,zamatom,mi,zápas,zamat,om,[5],zamat,[]
+356,random_general,ischias,pl,N,ischiasy,mi,zápas,ischias,y,[7],ischias,[]
+357,random_general,málokrvnosť,sg,I,málokrvnosťou,f,možnosť,málokrvnosť,ou,[11],mál|o|krv|n|osť,"[3, 4, 7, 8]"
+358,random_general,rozpor,pl,A,rozpory,mi,zápas,rozpor,y,[6],roz|por,[3]
+359,random_general,stabilnosť,pl,D,stabilnostiam,f,možnosť,stabilnost,iam,[10],sta|biln|osť,"[3, 7]"
+360,random_general,kibic,pl,N,kibici,mp,chlap,kibic,i,[5],kibic,[]
+361,random_general,párnosť,sg,I,párnosťou,f,možnosť,párnosť,ou,[7],pár|n|osť,"[3, 4]"
+362,random_general,smalt,sg,L,smalte,mi,zápas,smalt,e,[5],smalt,[]
+363,random_general,chodbár,sg,I,chodbárom,mp,chlap,chodbár,om,[7],chod|b|ár,"[4, 5]"
+364,random_general,box,sg,D,boxu,mi,zápas,box,u,[3],box,[]
+365,random_general,diktát,sg,G,diktátu,mi,zápas,diktát,u,[6],dikt|át,[4]
+366,random_general,piadimužík,pl,G,piadimužíkov,mp,chlap,piadimužík,ov,[10],piad|i|muž|ík,"[4, 5, 8]"
+367,random_general,chrapľavosť,sg,G,chrapľavosti,f,možnosť,chrapľavost,i,[11],chrap|ľav|osť,"[5, 8]"
+368,random_general,neobmedzenosť,pl,L,neobmedzenostiach,f,možnosť,neobmedzenost,iach,[13],ne|ob|medz|en|osť,"[2, 4, 8, 10]"
+369,random_general,samospád,pl,A,samospády,mi,zápas,samospád,y,[8],sam|o|s|pád,"[3, 4, 5]"
+370,random_general,pomenovanie,pl,N,pomenovania,n,stretnutie,pomenovan,ia,[9],po|men|ov|an|ie,"[2, 5, 7, 9]"
+371,random_general,ochvat,sg,D,ochvatu,mi,zápas,ochvat,u,[6],ochvat,[]
+372,random_general,duatlon,sg,I,duatlonom,mi,zápas,duatlon,om,[7],du|atl|on,"[2, 5]"
+373,random_general,klerik,pl,I,klerikmi,mp,chlap,klerik,mi,[6],kler|ik,[4]
+374,random_general,predpranie,sg,A,predpranie,n,stretnutie,predpran,ie,[8],pred|pr|an|ie,"[4, 6, 8]"
+375,random_general,drevorubač,pl,A,drevorubačov,mp,chlap,drevorubač,ov,[10],drev|o|rub|ač,"[4, 5, 8]"
+376,random_general,kastról,sg,D,kastrólu,mi,zápas,kastról,u,[7],kastról,[]
+377,random_general,mor,sg,L,more,mi,zápas,mor,e,[3],mor,[]
+378,random_general,prenesenosť,sg,D,prenesenosti,f,možnosť,prenesenost,i,[11],pre|nes|en|osť,"[3, 6, 8]"
+379,random_general,predzvesť,sg,A,predzvesť,f,možnosť,predzvesť,ø,[],pred|z|vesť,"[4, 5]"
+380,random_general,umučenie,sg,I,umučením,n,stretnutie,umučen,ím,[6],u|muč|en|ie,"[1, 4, 6]"
+381,pattern_representative,subdodávateľ,pl,L,subdodávateľoch,mp,priateľ,subdodávateľ,och,[12],sub|do|d|áv|ateľ,"[3, 5, 6, 8]"
+382,pattern_representative,vyslankyňa,sg,G,vyslankyne,f,ulica,vyslankyn,e,[9],vy|sl|an|k|yň|a,"[2, 4, 6, 7, 9]"
+383,pattern_representative,šatniar,sg,I,šatniarom,mp,chlap,šatniar,om,[7],šat|n|iar,"[3, 4]"
+384,pattern_representative,podsvetie,pl,A,podsvetia,n,stretnutie,podsvet,ia,[7],pod|svet|ie,"[3, 7]"
+385,pattern_representative,druhotriednosť,sg,D,druhotriednosti,f,možnosť,druhotriednost,i,[14],druh|o|tried|n|osť,"[4, 5, 10, 11]"
+386,pattern_representative,riaditeľ,pl,I,riaditeľmi,mp,priateľ,riaditeľ,mi,[8],riad|iteľ,[4]
+387,pattern_representative,predlaktie,pl,D,predlaktiam,n,stretnutie,predlakt,iam,[8],pred|lakt|ie,"[4, 8]"
+388,pattern_representative,príslovie,sg,G,príslovia,n,stretnutie,prísl,ovia,[5],prí|slov|ie,"[3, 7]"
+389,pattern_representative,vrátnica,pl,L,vrátniciach,f,ulica,vrátnic,iach,[7],vrát|nic|a,"[4, 7]"
+390,pattern_representative,znechutenosť,pl,G,znechuteností,f,možnosť,znechutenost,í,[12],z|ne|chut|en|osť,"[1, 3, 7, 9]"
+391,pattern_representative,taktnosť,pl,L,taktnostiach,f,možnosť,taktnost,iach,[8],takt|n|osť,"[4, 5]"
+392,pattern_representative,chorľavosť,pl,G,chorľavostí,f,možnosť,chorľavost,í,[10],chor|ľav|osť,"[4, 7]"
+393,pattern_representative,vytrvalosť,sg,D,vytrvalosti,f,možnosť,vytrvalost,i,[10],vy|trv|al|osť,"[2, 5, 7]"
+394,pattern_representative,negativizmus,pl,L,negativizmoch,mi,problém,negativizm,och,[10],neg|at|iv|izm|us,"[3, 5, 7, 10]"
+395,pattern_representative,roznášač,pl,G,roznášačov,mp,chlap,roznášač,ov,[8],roz|náš|ač,"[3, 6]"
+396,pattern_representative,klasicizmus,pl,N,klasicizmy,mi,problém,klasicizm,y,[9],klas|ic|izm|us,"[4, 6, 9]"
+397,pattern_representative,začiatočník,pl,I,začiatočníkmi,mp,chlap,začiatočník,mi,[11],za|čia|t|oč|ník,"[2, 5, 6, 8]"
+398,pattern_representative,bipolárnosť,pl,I,bipolárnosťami,f,možnosť,bipolárnosť,ami,[11],bi|pol|árn|osť,"[2, 5, 8]"
+399,pattern_representative,rušňovodič,pl,L,rušňovodičoch,mp,chlap,rušňovodič,och,[10],ruš|ň|o|vod|ič,"[3, 4, 5, 8]"
+400,pattern_representative,dvojakosť,pl,N,dvojakosti,f,možnosť,dvojakost,i,[9],dv|oj|ak|osť,"[2, 4, 6]"
+401,pattern_representative,zlepšovateľ,pl,A,zlepšovateľov,mp,priateľ,zlepšovateľ,ov,[11],z|lep|š|ov|ateľ,"[1, 4, 5, 7]"
+402,pattern_representative,škriepnik,pl,G,škriepnikov,mp,chlap,škriepnik,ov,[9],škriep|n|ik,"[6, 7]"
+403,pattern_representative,pikolík,sg,I,pikolíkom,mp,chlap,pikolík,om,[7],pikol|ík,[5]
+404,pattern_representative,manipulátor,sg,G,manipulátora,mp,chlap,manipulátor,a,[11],manipul|át|or,"[7, 9]"
+405,pattern_representative,štvrťfinále,pl,I,štvrťfinále,n,neskl,štvrťfinále,ø,[],štvr|ť|fin|ále,"[4, 5, 8]"
+406,pattern_representative,invariant,pl,L,invariantoch,mi,zápas,invariant,och,[9],in|vari|ant,"[2, 6]"
+407,pattern_representative,motorista,pl,D,motoristom,mp,futbalista,motorist,om,[8],mot|or|ist|a,"[3, 5, 8]"
+408,pattern_representative,ľahtikár,pl,L,ľahtikároch,mp,chlap,ľahtikár,och,[8],ľah|t|ikár,"[3, 4]"
+409,pattern_representative,vzduchotesnosť,pl,I,vzduchotesnosťami,f,možnosť,vzduchotesnosť,ami,[14],vzduch|o|tesn|osť,"[6, 7, 11]"
+410,pattern_representative,ježibábeľ,sg,I,ježibábeľom,mp,chlap,ježibábeľ,om,[9],ježibáb|eľ,[7]
+411,pattern_representative,úhlavnosť,pl,I,úhlavnosťami,f,možnosť,úhlavnosť,ami,[9],ú|hlav|n|osť,"[1, 5, 6]"
+412,pattern_representative,životnosť,sg,D,životnosti,f,možnosť,životnost,i,[9],ži|v|ot|n|osť,"[2, 3, 5, 6]"
+413,pattern_representative,morálnosť,sg,A,morálnosť,f,možnosť,morálnosť,ø,[],mor|áln|osť,"[3, 6]"
+414,pattern_representative,doktrinár,sg,G,doktrinára,mp,chlap,doktrinár,a,[9],doktr|in|ár,"[5, 7]"
+415,pattern_representative,pozostatok,pl,N,pozostatky,mi,výsledok,pozostatk,y,[9],po|zo|sta|t|ok,"[2, 4, 7, 8]"
+416,pattern_representative,bodľačie,pl,L,bodľačiach,n,stretnutie,bodľač,iach,[6],bod|ľač|ie,"[3, 6]"
+417,pattern_representative,rovnopis,sg,G,rovnopisu,mi,zápas,rovnopis,u,[8],rov|n|o|pis,"[3, 4, 5]"
+418,pattern_representative,šéfdirigent,sg,D,šéfdirigentovi,mp,chlap,šéfdirigent,ovi,[11],šéf|dirig|ent,"[3, 8]"
+419,pattern_representative,supertalent,pl,I,supertalentmi,mi,zápas,supertalent,mi,[11],super|talent,[5]
+420,pattern_representative,zemepán,pl,I,zemepánmi,mp,chlap,zemepán,mi,[7],zem|e|pán,"[3, 4]"
+421,pattern_representative,regrút,sg,L,regrútovi,mp,chlap,regrút,ovi,[6],regrút,[]
+422,pattern_representative,sympatizant,sg,L,sympatizantovi,mp,chlap,sympatizant,ovi,[11],sym|pat|izant,"[3, 6]"
+423,pattern_representative,neštandard,sg,A,neštandard,mi,zápas,neštandard,ø,[],ne|štandard,[2]
+424,pattern_representative,bonviván,pl,L,bonvivánoch,mp,chlap,bonviván,och,[8],bon|viv|án,"[3, 6]"
+425,pattern_representative,preklad,sg,I,prekladom,mi,zápas,preklad,om,[7],pre|klad,[3]
+426,pattern_representative,prílev,sg,A,prílev,mi,zápas,prílev,ø,[],prí|le|v,"[3, 5]"
+427,pattern_representative,repetítor,sg,L,repetítorovi,mp,chlap,repetítor,ovi,[9],repet|ít|or,"[5, 7]"
+428,pattern_representative,panteón,pl,G,panteónov,mi,zápas,panteón,ov,[7],pan|te|ón,"[3, 5]"
+429,pattern_representative,statik,pl,N,statici,mp,chlap,static,i,[6],stat|ik,[4]
+430,pattern_representative,front,sg,L,fronte,mi,zápas,front,e,[5],front,[]
+431,pattern_representative,dražobňa,sg,I,dražobňou,f,poisťovňa,dražobň,ou,[7],draž|ob|ň|a,"[4, 6, 7]"
+432,pattern_representative,kal,pl,G,kalov,mi,zápas,kal,ov,[3],kal,[]
+433,pattern_representative,episkopalista,pl,G,episkopalistov,mp,futbalista,episkopalist,ov,[12],episkop|alist|a,"[7, 12]"
+434,pattern_representative,predsavzatie,pl,D,predsavzatiam,n,stretnutie,predsavzat,iam,[10],predsavza|t|ie,"[9, 10]"
+435,pattern_representative,cudzoložnica,sg,G,cudzoložnice,f,ulica,cudzoložnic,e,[11],cudz|o|lož|nic|a,"[4, 5, 8, 11]"
+436,pattern_representative,skladateľ,pl,D,skladateľom,mp,priateľ,skladateľ,om,[9],s|klad|ateľ,"[1, 5]"
+437,pattern_representative,popredie,pl,L,poprediach,n,stretnutie,popred,iach,[6],po|pred|ie,"[2, 6]"
+438,pattern_representative,eurokampaň,pl,I,eurokampaňami,f,dlaň,eurokampaň,ami,[10],eur|o|kampaň,"[3, 4]"
+439,pattern_representative,difuzér,pl,I,difuzérmi,mi,hotel,difuzér,mi,[7],di|fuz|ér,"[2, 5]"
+440,pattern_representative,mág,pl,N,mágovia,mp,syn,mág,ovia,[3],mág,[]
+441,pattern_representative,detailista,sg,D,detailistovi,mp,futbalista,detailist,ovi,[9],detail|ist|a,"[6, 9]"
+442,pattern_representative,typológ,sg,D,typológovi,mp,syn,typológ,ovi,[7],typ|o|lóg,"[3, 4]"
+443,pattern_representative,konateľ,sg,D,konateľovi,mp,priateľ,konateľ,ovi,[7],kon|ateľ,[3]
+444,pattern_representative,prežitok,pl,N,prežitky,mi,výsledok,prežitk,y,[7],pre|ži|t|ok,"[3, 5, 6]"
+445,pattern_representative,tanečnica,pl,D,tanečniciam,f,ulica,tanečnic,iam,[8],taneč|nic|a,"[5, 8]"
+446,pattern_representative,sokolovňa,sg,A,sokolovňu,f,poisťovňa,sokolovňu,ø,[],sokol|ovň|a,"[5, 8]"
+447,pattern_representative,exhibicionizmus,pl,A,exhibicionizmy,mi,problém,exhibicionizm,y,[13],exhib|ici|onizm|us,"[5, 8, 13]"
+448,pattern_representative,džbánok,sg,I,džbánkom,mi,výsledok,džbánk,om,[6],džbán|ok,[5]
+449,pattern_representative,stavebnica,pl,N,stavebnice,f,ulica,stavebnic,e,[9],stav|eb|nic|a,"[4, 6, 9]"
+450,pattern_representative,nátrubok,pl,A,nátrubky,mi,kúsok,nátrubk,y,[7],ná|trub|ok,"[2, 6]"
+451,pattern_representative,pasienok,pl,D,pasienkom,mi,kúsok,pasienk,om,[7],pas|ienok,[3]
+452,pattern_representative,chovateľ,pl,A,chovateľov,mp,priateľ,chovateľ,ov,[8],chov|ateľ,[4]
+453,pattern_representative,presbyterianizmus,pl,I,presbyterianizmami,mi,problém,presbyterianizm,ami,[15],presbyt|er|ian|izm|us,"[7, 9, 12, 15]"
+454,pattern_representative,uchaňa,sg,A,uchaňu,f,poisťovňa,uchaňu,ø,[],uch|aň|a,"[3, 5]"
+455,pattern_representative,futurista,pl,N,futuristi,mp,futbalista,futurist,i,[8],futur|ist|a,"[5, 8]"
+456,pattern_representative,kapustnica,pl,A,kapustnice,f,ulica,kapustnic,e,[9],kapust|n|ic|a,"[6, 7, 9]"
+457,pattern_representative,budovateľ,sg,A,budovateľa,mp,priateľ,budovateľ,a,[9],bud|ov|ateľ,"[3, 5]"
+458,pattern_representative,hlások,sg,I,hláskom,mi,kúsok,hlásk,om,[5],hlás|ok,[4]
+459,pattern_representative,chumelica,sg,D,chumelici,f,ulica,chumelic,i,[8],chumel|ic|a,"[6, 8]"
+460,pattern_representative,náturista,pl,A,náturistov,mp,futbalista,náturist,ov,[8],nátur|ist|a,"[5, 8]"
+461,pattern_representative,kozmopolitizmus,sg,I,kozmopolitizmom,mi,problém,kozmopolitizm,om,[13],kozm|o|polit|izm|us,"[4, 5, 10, 13]"
+462,pattern_representative,komunizmus,sg,G,komunizmu,mi,problém,komunizm,u,[8],komun|izm|us,"[5, 8]"
+463,pattern_representative,rozhodca,pl,L,rozhodcoch,mp,hrdina,rozhodc,och,[7],rozhod|c|a,"[6, 7]"
+464,pattern_representative,manuál,pl,A,manuály,mi,materiál,manuál,y,[6],man|uál,[3]
+465,pattern_representative,radkyňa,pl,L,radkyniach,f,ulica,radkyn,iach,[6],rad|k|yň|a,"[3, 4, 6]"
+466,pattern_representative,vrátok,pl,L,vrátkoch,mi,kúsok,vrátk,och,[5],vrát|ok,[4]
+467,pattern_representative,harfista,pl,N,harfisti,mp,futbalista,harfist,i,[7],harf|ist|a,"[4, 7]"
+468,pattern_representative,prokurista,sg,G,prokuristu,mp,futbalista,prokurist,u,[9],prokur|ist|a,"[6, 9]"
+469,pattern_representative,antropocentrizmus,pl,I,antropocentrizmami,mi,problém,antropocentrizm,ami,[15],antrop|o|centr|izm|us,"[6, 7, 12, 15]"
+470,pattern_representative,predseda,pl,I,predsedami,mp,hrdina,predsed,ami,[7],pred|sed|a,"[4, 7]"
+471,pattern_representative,formalizmus,pl,G,formalizmov,mi,problém,formalizm,ov,[9],form|alizm|us,"[4, 9]"
+472,pattern_representative,zbernica,sg,D,zbernici,f,ulica,zbernic,i,[7],z|ber|n|ic|a,"[1, 4, 5, 7]"
+473,pattern_representative,komuniké,pl,D,komuniké,n,neskl,komuniké,ø,[],komuniké,[]
+474,pattern_representative,monopolista,sg,A,monopolistu,mp,futbalista,monopolist,u,[10],mon|o|pol|ist|a,"[3, 4, 7, 10]"
+475,pattern_representative,cementáreň,sg,G,cementárne,f,elektráreň,cementárn,e,[9],ce|ment|áreň,"[2, 6]"
+476,pattern_representative,cyankáli,pl,D,cyankáli,n,neskl,cyankáli,ø,[],cyan|káli,[4]
+477,pattern_representative,zákrpok,pl,G,zákrpkov,mi,kúsok,zákrpk,ov,[6],zá|krp|ok,"[2, 5]"
+478,pattern_representative,úschovňa,sg,G,úschovne,f,poisťovňa,úschovne,ø,[],ú|s|chov|ň|a,"[1, 2, 6, 7]"
+479,pattern_representative,vizážista,sg,D,vizážistovi,mp,futbalista,vizážist,ovi,[8],viz|áž|ist|a,"[3, 5, 8]"
+480,pattern_representative,človiečik,sg,D,človiečikovi,mp,syn,človiečik,ovi,[9],človieč|ik,[7]
+481,pattern_representative,niekoľkonásobok,pl,A,niekoľkonásobky,mi,výsledok,niekoľkonásobk,y,[14],nie|koľk|o|násob|ok,"[3, 7, 8, 13]"
+482,pattern_representative,kuratórium,pl,L,kuratóriách,n,médium,kuratóri,ách,[8],kur|atóri|um,"[3, 8]"
+483,pattern_representative,gymnázium,sg,I,gymnáziom,n,médium,gymnázi,om,[7],gymnázi|um,[7]
+484,pattern_representative,úškrnok,sg,L,úškrnku,mi,výsledok,úškrnk,u,[6],ú|škr|n|ok,"[1, 4, 5]"
+485,pattern_representative,analfabetizmus,pl,L,analfabetizmoch,mi,problém,analfabetizm,och,[12],an|alf|a|bet|izm|us,"[2, 5, 6, 9, 12]"
+486,pattern_representative,jogizmus,pl,I,jogizmami,mi,problém,jogizm,ami,[6],jog|izm|us,"[3, 6]"
+487,pattern_representative,kompendium,pl,A,kompendiá,n,médium,kompendi,á,[8],kompendi|um,[8]
+488,pattern_representative,opál,sg,I,opálom,mi,materiál,opál,om,[4],opál,[]
+489,pattern_representative,tarhoňa,pl,I,tarhoňami,f,poisťovňa,tarhoň,ami,[6],tarhoň|a,[6]
+490,pattern_representative,listáreň,sg,I,listárňou,f,elektráreň,listárň,ou,[7],list|áreň,[4]
+491,pattern_representative,navštevovateľ,sg,L,navštevovateľovi,mp,priateľ,navštevovateľ,ovi,[13],navštev|ov|ateľ,"[7, 9]"
+492,pattern_representative,priehlavok,pl,G,priehlavkov,mi,výsledok,priehlavk,ov,[9],prie|hlav|ok,"[4, 8]"
+493,pattern_representative,panel,pl,A,panely,mi,hotel,panel,y,[5],panel,[]
+494,pattern_representative,textológ,sg,D,textológovi,mp,syn,textológ,ovi,[8],text|o|lóg,"[4, 5]"
+495,pattern_representative,ošiaľ,pl,G,ošiaľov,mi,žiaľ,ošiaľ,ov,[5],o|šiaľ,[1]
+496,pattern_representative,škriatok,sg,G,škriatka,mp,svedok,škriatk,a,[7],škriat|ok,[6]
+497,pattern_representative,staršina,sg,I,staršinom,mp,hrdina,staršin,om,[7],star|š|in|a,"[4, 5, 7]"
+498,pattern_representative,premožiteľ,sg,I,premožiteľom,mp,priateľ,premožiteľ,om,[10],pre|mož|iteľ,"[3, 6]"
+499,pattern_representative,kriminál,pl,L,krimináloch,mi,materiál,kriminál,och,[8],krimin|ál,[6]
+500,pattern_representative,tmel,sg,D,tmelu,mi,materiál,tmel,u,[4],tmel,[]
+501,pattern_representative,bojler,pl,D,bojlerom,mi,hotel,bojler,om,[6],bojl|er,[4]
+502,pattern_representative,člen,pl,N,členovia,mp,syn,člen,ovia,[4],člen,[]
+503,pattern_representative,apogeum,sg,A,apogeum,n,médium,apoge,um,[5],apo|ge|um,"[3, 5]"
+504,pattern_representative,kaňa,pl,A,kane,f,poisťovňa,kane,ø,[],kaň|a,[3]
+505,pattern_representative,ded,pl,I,dedmi,mp,syn,ded,mi,[3],ded,[]
+506,pattern_representative,minisukňa,pl,N,minisukne,f,poisťovňa,minisukne,ø,[],mini|suk|ň|a,"[4, 7, 8]"
+507,pattern_representative,humience,pl,L,humiencach,n,líce,humienc,ach,[7],humien|c|e,"[6, 7]"
+508,pattern_representative,ansámbel,pl,I,ansámblami,mi,materiál,ansámbl,ami,[7],ansámbel,[]
+509,pattern_representative,vlastizradca,sg,L,vlastizradcovi,mp,hrdina,vlastizradc,ovi,[11],vlast|i|zrad|c|a,"[5, 6, 10, 11]"
+510,pattern_representative,cícerok,pl,D,cícerkom,mi,kúsok,cícerk,om,[6],cícer|ok,[5]
+511,pattern_representative,vývažok,sg,I,vývažkom,mi,výsledok,vývažk,om,[6],vý|važ|ok,"[2, 5]"
+512,pattern_representative,zbraň,pl,G,zbraní,f,dlaň,zbran,í,[5],zbraň,[]
+513,pattern_representative,pária,pl,I,páriami,mp,hrdina,pár,iami,[3],pári|a,[4]
+514,pattern_representative,náramok,sg,G,náramku,mi,výsledok,náramk,u,[6],ná|ram|ok,"[2, 5]"
+515,pattern_representative,obhajca,sg,G,obhajcu,mp,hrdina,obhajc,u,[6],ob|haj|c|a,"[2, 5, 6]"
+516,pattern_representative,pražiareň,sg,A,pražiareň,f,elektráreň,pražiareň,ø,[],praž|iareň,[4]
+517,pattern_representative,delírium,sg,G,delíria,n,médium,delír,ia,[5],delír|i|um,"[5, 6]"
+518,pattern_representative,zať,sg,L,zaťovi,mp,syn,zať,ovi,[3],zať,[]
+519,pattern_representative,koniareň,pl,A,koniarne,f,elektráreň,koniarn,e,[7],kon|iareň,[3]
+520,pattern_representative,promile,sg,L,promile,n,neskl,promile,ø,[],promile,[]
+521,pattern_representative,kázeň,sg,L,kázni,f,elektráreň,kázn,i,[4],káz|eň,[3]
+522,pattern_representative,podšéf,sg,A,podšéfa,mp,syn,podšéf,a,[6],pod|šéf,[3]
+523,pattern_representative,kročaj,pl,G,kročají,f,esej,kročaj,í,[6],kroč|aj,[4]
+524,pattern_representative,dóža,sg,D,dóžovi,mp,hrdina,dóž,ovi,[3],dóž|a,[3]
+525,pattern_representative,benefícium,sg,L,benefíciu,n,médium,benefíc,iu,[7],ben|e|fíci|um,"[3, 4, 8]"
+526,pattern_representative,jedáleň,sg,A,jedáleň,f,elektráreň,jedáleň,ø,[],jed|ál|eň,"[3, 5]"
+527,pattern_representative,záujemca,sg,G,záujemcu,mp,hrdina,záujemc,u,[7],záujem|c|a,"[6, 7]"
+528,pattern_representative,sušiareň,pl,L,sušiarňach,f,elektráreň,sušiarň,ach,[7],suš|iareň,[3]
+529,pattern_representative,hotel,sg,I,hotelom,mi,hotel,hotel,om,[5],hotel,[]
+530,pattern_representative,ambulatórium,pl,N,ambulatóriá,n,médium,ambulatóri,á,[10],ambul|atóri|um,"[5, 10]"
+531,pattern_representative,rande,pl,G,rande,n,neskl,rande,ø,[],rande,[]
+532,pattern_representative,múzeum,pl,D,múzeám,n,médium,múze,ám,[4],múz|e|um,"[3, 4]"
+533,pattern_representative,nedorastok,sg,L,nedorastkovi,mp,svedok,nedorastk,ovi,[9],ne|do|rast|ok,"[2, 4, 8]"
+534,pattern_representative,strieľňa,pl,N,strieľne,f,dielňa,strieľne,ø,[],strieľ|ň|a,"[6, 7]"
+535,pattern_representative,salchov,sg,D,salchovu,mp,syn,salchov,u,[7],salchov,[]
+536,pattern_representative,veľkokapitál,sg,L,veľkokapitáli,mi,materiál,veľkokapitál,i,[12],veľ|k|o|kapit|ál,"[3, 4, 5, 10]"
+537,pattern_representative,garde,sg,I,garde,n,neskl,garde,ø,[],garde,[]
+538,pattern_representative,kolkáreň,sg,A,kolkáreň,f,elektráreň,kolkáreň,ø,[],kol|k|áreň,"[3, 4]"
+539,pattern_representative,braček,sg,L,bračekovi,mp,syn,braček,ovi,[6],bra|ček,[3]
+540,pattern_representative,oriešok,pl,D,orieškom,mi,kúsok,oriešk,om,[6],orieš|ok,[5]
+541,pattern_representative,rely,sg,G,rely,n,neskl,rely,ø,[],rely,[]
+542,pattern_representative,strojvodca,pl,I,strojvodcami,mp,hrdina,strojvodc,ami,[9],stroj|vod|c|a,"[5, 8, 9]"
+543,pattern_representative,chmeľ,sg,A,chmeľ,mi,žiaľ,chmeľ,ø,[],chmeľ,[]
+544,pattern_representative,vlások,pl,I,vláskami,mi,kúsok,vlásk,ami,[5],vlás|ok,[4]
+545,pattern_representative,šči,sg,G,šči,n,neskl,šči,ø,[],šči,[]
+546,pattern_representative,ateliér,pl,A,ateliéry,mi,materiál,ateliér,y,[7],atel|iér,[4]
+547,pattern_representative,miss,pl,N,miss,f,miss,miss,ø,[],miss,[]
+548,pattern_representative,skóre,pl,I,skóre,n,neskl,skóre,ø,[],skóre,[]
+549,pattern_representative,nedobizeň,pl,G,nedobizní,f,dlaň,nedobizn,í,[8],nedob|izeň,[5]
+550,pattern_representative,posledok,sg,I,posledkom,mi,kúsok,posledk,om,[7],po|sled|ok,"[2, 6]"
+551,pattern_representative,sedielce,sg,L,sedielci,n,líce,sedielc,i,[7],sed|iel|c|e,"[3, 6, 7]"
+552,pattern_representative,bešamel,pl,I,bešamelmi,mi,materiál,bešamel,mi,[7],bešamel,[]
+553,pattern_representative,bezzemok,sg,A,bezzemka,mp,svedok,bezzemk,a,[7],bez|zem|ok,"[3, 6]"
+554,pattern_representative,akvarel,pl,D,akvarelom,mi,materiál,akvarel,om,[7],akv|arel,[3]
+555,pattern_representative,koľaj,sg,A,koľaj,f,esej,koľaj,ø,[],koľ|aj,[3]
+556,pattern_representative,tlačiareň,sg,G,tlačiarne,f,elektráreň,tlačiarn,e,[8],tlač|iareň,[4]
+557,pattern_representative,činel,sg,D,činelu,mi,hotel,činel,u,[5],činel,[]
+558,pattern_representative,recitál,pl,N,recitály,mi,materiál,recitál,y,[7],recit|ál,[5]
+559,pattern_representative,klavír,pl,N,klavíry,mi,hotel,klavír,y,[6],klav|ír,[4]
+560,pattern_representative,pachoľa,pl,A,pachoľatá,n,zviera,pachoľ,atá,[6],pachoľ|a,[6]
+561,pattern_representative,ríša,pl,I,ríšami,f,práca,ríš,ami,[3],ríš|a,[3]
+562,pattern_representative,kropaj,sg,A,kropaj,f,esej,kropaj,ø,[],krop|aj,[4]
+563,pattern_representative,mantinel,sg,G,mantinela,mi,hotel,mantinel,a,[8],mantinel,[]
+564,pattern_representative,antisemita,sg,L,antisemitovi,mp,husita,antisemit,ovi,[9],anti|sem|it|a,"[4, 7, 9]"
+565,pattern_representative,páľa,pl,G,páľ,f,práca,páľ,ø,[],páľ|a,[3]
+566,pattern_representative,revolver,pl,G,revolverov,mi,hotel,revolver,ov,[8],revolver,[]
+567,pattern_representative,vicemiss,sg,G,vicemiss,f,miss,vicemiss,ø,[],vice|miss,[4]
+568,pattern_representative,tse-tse,sg,D,tse-tse,f,miss,tse-tse,ø,[],tse-tse,[]
+569,pattern_representative,kozmopolita,pl,D,kozmopolitom,mp,husita,kozmopolit,om,[10],kozm|o|polit|a,"[4, 5, 10]"
+570,pattern_representative,vinea,pl,A,viney,f,idea,vine,y,[4],vine|a,[4]
+571,pattern_representative,trenažér,pl,N,trenažéry,mi,hotel,trenažér,y,[8],tren|ažér,[4]
+572,pattern_representative,spojler,sg,D,spojleru,mi,hotel,spojler,u,[7],spojl|er,[5]
+573,pattern_representative,rúbaň,pl,A,rúbane,f,dlaň,rúban,e,[5],rúb|aň,[3]
+574,pattern_representative,krištáľ,pl,G,krištáľov,mi,žiaľ,krištáľ,ov,[7],krištáľ,[]
+575,pattern_representative,knieža,sg,A,knieža,n,zviera,kniež,a,[5],kniež|a,[5]
+576,pattern_representative,priehlbeň,sg,D,priehlbeni,f,dlaň,priehlben,i,[9],prie|hlb|eň,"[4, 7]"
+577,pattern_representative,dreň,sg,L,dreni,f,dlaň,dren,i,[4],dreň,[]
+578,pattern_representative,peľ,pl,D,peľom,mi,žiaľ,peľ,om,[3],peľ,[]
+579,pattern_representative,epicentrum,pl,G,epicentier,n,mesto,epicentier,ø,[],epi|centr|um,"[3, 8]"
+580,pattern_representative,semiš,pl,N,semiše,mi,žiaľ,semiš,e,[5],semiš,[]
+581,pattern_representative,odstavča,sg,G,odstavčaťa,n,zviera,odstavč,aťa,[7],od|sta|v|č|a,"[2, 5, 6, 7]"
+582,pattern_representative,rarášok,pl,G,raráškov,mp,svedok,rarášk,ov,[6],raráš|ok,[5]
+583,pattern_representative,sadielce,pl,G,sadielec,n,líce,sadielec,ø,[],sad|iel|c|e,"[3, 6, 7]"
+584,pattern_representative,súkareň,pl,A,súkarne,f,dlaň,súkarne,ø,[],súk|areň,[3]
+585,pattern_representative,mikrofiš,pl,G,mikrofišov,mi,žiaľ,mikrofiš,ov,[8],mikr|o|fiš,"[4, 5]"
+586,pattern_representative,veľkobaňa,sg,I,veľkobaňou,f,dielňa,veľkobaň,ou,[8],veľ|k|o|baň|a,"[3, 4, 5, 8]"
+587,pattern_representative,kôlňa,sg,A,kôlňu,f,dielňa,kôlňu,ø,[],kôlňa,[]
+588,pattern_representative,skicentrum,sg,I,skicentrom,n,mesto,skicentrom,ø,[],ski|centr|um,"[3, 8]"
+589,pattern_representative,stebielce,sg,L,stebielci,n,líce,stebielc,i,[8],stebiel|c|e,"[7, 8]"
+590,pattern_representative,zviera,pl,I,zvieratami,n,zviera,zvier,atami,[5],zvier|a,[5]
+591,pattern_representative,bridž,sg,I,bridžom,mi,žiaľ,bridž,om,[5],bridž,[]
+592,pattern_representative,popmusic,sg,A,popmusic,f,miss,popmusic,ø,[],pop|music,[3]
+593,pattern_representative,holobriadok,pl,G,holobriadkov,mp,svedok,holobriadk,ov,[10],hol|o|briad|ok,"[3, 4, 9]"
+594,pattern_representative,šľapaj,sg,D,šľapaji,f,esej,šľapaj,i,[6],šľap|aj,[4]
+595,pattern_representative,mláďa,pl,D,mláďatám,n,zviera,mláď,atám,[4],mláď|a,[4]
+596,pattern_representative,zmier,sg,D,zmieru,mi,žiaľ,zmier,u,[5],z|mier,[1]
+597,pattern_representative,štôlňa,sg,I,štôlňou,f,dielňa,štôlň,ou,[5],štôlňa,[]
+598,pattern_representative,dielňa,sg,D,dielni,f,dielňa,dielni,ø,[],diel|ň|a,"[4, 5]"
+599,pattern_representative,fafrnok,sg,G,fafrnka,mp,svedok,fafrnk,a,[6],fafrn|ok,[5]
+600,pattern_representative,nádej,pl,N,nádeje,f,esej,nádej,e,[5],nádej,[]
+601,pattern_representative,práčňa,sg,I,práčňou,f,dielňa,práčň,ou,[5],pr|áčň|a,"[2, 5]"
+602,pattern_representative,transvestita,pl,N,transvestiti,mp,husita,transvestit,i,[11],trans|vest|it|a,"[5, 9, 11]"
+603,pattern_representative,líce,sg,A,líce,n,líce,líc,e,[3],líc|e,[3]
+604,pattern_representative,šmrnc,pl,I,šmrncmi,mi,žiaľ,šmrnc,mi,[5],šmrnc,[]
+605,pattern_representative,míľa,sg,A,míľu,f,práca,míľ,u,[3],míľ|a,[3]
+606,pattern_representative,pradience,pl,N,pradienca,n,líce,pradienc,a,[8],prad|ien|c|e,"[4, 7, 8]"
+607,pattern_representative,pláca,sg,I,plácou,f,práca,plác,ou,[4],plác|a,[4]
+608,pattern_representative,oje,sg,L,oji,n,líce,oj,i,[2],oj|e,[2]
+609,pattern_representative,páža,sg,I,pážaťom,n,zviera,páž,aťom,[3],páž|a,[3]
+610,pattern_representative,jury,pl,A,jury,f,miss,jury,ø,[],jury,[]
+611,pattern_representative,esej,pl,A,eseje,f,esej,esej,e,[4],esej,[]
+612,pattern_representative,askéta,sg,L,askétovi,mp,husita,askét,ovi,[5],ask|ét|a,"[3, 5]"
+613,pattern_representative,svedok,pl,I,svedkami,mp,svedok,svedk,ami,[5],sved|ok,[4]
+614,pattern_representative,despota,pl,G,despotov,mp,husita,despot,ov,[6],despot|a,[6]
+615,pattern_representative,minorita,sg,D,minoritovi,f,žena,minorit,ovi,[7],minor|it|a,"[5, 7]"
+616,pattern_representative,hrdielce,sg,L,hrdielci,n,líce,hrdielc,i,[7],hrdiel|c|e,"[6, 7]"
+617,pattern_representative,arciknieža,pl,I,arcikniežatami,n,zviera,arcikniež,atami,[9],arci|kniež|a,"[4, 9]"
+618,pattern_representative,pohrobok,sg,L,pohrobkovi,mp,svedok,pohrobk,ovi,[7],po|hrob|ok,"[2, 6]"
+619,pattern_representative,loby,pl,D,loby,f,miss,loby,ø,[],loby,[]
+620,pattern_representative,žieňa,pl,A,žieňatá,n,zviera,žieň,atá,[4],žieň|a,[4]
+621,pattern_representative,svieca,pl,N,sviece,f,práca,sviec,e,[5],sviec|a,[5]
+622,pattern_representative,kamea,pl,G,kameí,f,idea,kame,í,[4],kame|a,[4]
+623,pattern_representative,idea,pl,D,ideám,f,idea,ide,ám,[3],ide|a,[3]
+624,pattern_representative,spolupráca,sg,A,spoluprácu,f,práca,spoluprác,u,[9],spol|u|prác|a,"[4, 5, 9]"
+625,pattern_representative,presscentrum,sg,I,presscentrom,n,mesto,presscentrom,ø,[],press|centr|um,"[5, 10]"
+626,pattern_representative,dielce,sg,G,dielca,n,líce,dielc,a,[5],diel|c|e,"[4, 5]"
+627,pattern_representative,bizniscentrum,pl,A,bizniscentrá,n,mesto,bizniscentrá,ø,[],biznis|centr|um,"[6, 11]"
+628,pattern_representative,bandita,pl,L,banditoch,mp,husita,bandit,och,[6],band|it|a,"[4, 6]"
+629,pattern_representative,ríňa,pl,G,ríň,f,práca,ríň,ø,[],ríň|a,[3]
+630,pattern_representative,husita,pl,G,husitov,mp,husita,husit,ov,[5],hus|it|a,"[3, 5]"
+631,pattern_representative,svetielce,sg,D,svetielcu,n,líce,svetielc,u,[8],svet|iel|c|e,"[4, 7, 8]"
+632,pattern_representative,lady,sg,D,lady,f,miss,lady,ø,[],lady,[]
+633,pattern_representative,apologéta,pl,I,apologétami,mp,husita,apologét,ami,[8],apolog|ét|a,"[6, 8]"
+634,pattern_representative,centrum,pl,N,centrá,n,mesto,centrá,ø,[],centr|um,[5]
+635,pattern_representative,krstňa,pl,A,krstňatá,n,zviera,krstň,atá,[5],krst|ň|a,"[4, 5]"
+636,pattern_representative,výrastok,pl,N,výrastkovia,mp,svedok,výrastk,ovia,[7],vý|rast|ok,"[2, 6]"
+637,pattern_representative,madam,pl,A,madam,f,miss,madam,ø,[],madam,[]
+638,pattern_representative,beznádej,pl,A,beznádeje,f,esej,beznádej,e,[8],bez|nádej,[3]
+639,pattern_representative,tôňa,sg,L,tôni,f,dielňa,tôni,ø,[],tôňa,[]
+640,pattern_representative,trachea,sg,G,trachey,f,idea,trache,y,[6],trache|a,[6]
+641,pattern_representative,katechéta,pl,L,katechétoch,mp,husita,katechét,och,[8],katech|ét|a,"[6, 8]"
+642,pattern_representative,skrýša,pl,G,skrýš,f,práca,skrýš,ø,[],s|krý|š|a,"[1, 4, 5]"
+643,pattern_representative,kratochvíľa,sg,G,kratochvíle,f,práca,kratochvíl,e,[10],krat|o|chvíľ|a,"[4, 5, 10]"
+644,pattern_representative,partaj,pl,D,partajám,f,esej,partaj,ám,[6],partaj,[]
+645,pattern_representative,livrej,pl,G,livrejí,f,esej,livrej,í,[6],livrej,[]
+646,pattern_representative,tácňa,pl,G,tácní,f,dielňa,tácní,ø,[],tác|ň|a,"[3, 4]"
+647,pattern_representative,spálňa,pl,L,spálňach,f,dielňa,spálňa,ch,[6],sp|álň|a,"[2, 5]"
+648,pattern_representative,orchidea,sg,L,orchidei,f,idea,orchide,i,[7],orchide|a,[7]
+649,pattern_representative,country,pl,I,country,f,miss,country,ø,[],country,[]
+650,pattern_representative,kardiocentrum,sg,A,kardiocentrum,n,mesto,kardiocentrum,ø,[],kardi|o|centr|um,"[5, 6, 11]"
+651,hard_tokenization,deťúrence,pl,L,deťúrenciach,n,V-deťúrence,deťúrenc,iach,[8],deť|úrenc|e,"[3, 8]"
+652,hard_tokenization,dieťa,sg,I,dieťaťom,n,V-dieťa,dieťať,om,[6],dieť|a,[4]
+653,hard_tokenization,uznášanianeschopnosť,sg,G,uznášanianeschopnosti,f,možnosť,uznášanianeschopnost,i,[20],u|z|náš|an|ia|ne|schop|n|osť,"[1, 2, 5, 7, 9, 11, 16, 17]"
+654,hard_tokenization,ucho,pl,G,uší,n,V-ucho,uš,í,[2],uch|o,[3]
+655,hard_tokenization,neodškriepiteľnosť,sg,G,neodškriepiteľnosti,f,možnosť,neodškriepiteľnost,i,[18],ne|od|škriep|iteľn|osť,"[2, 4, 10, 15]"
+656,hard_tokenization,mať,pl,G,materí,f,V-mať,mater,í,[5],mať,[]
+657,hard_tokenization,uznášaniaschopnosť,sg,G,uznášaniaschopnosti,f,možnosť,uznášaniaschopnost,i,[18],u|z|náš|an|ia|schop|n|osť,"[1, 2, 5, 7, 9, 14, 15]"
+658,hard_tokenization,more,pl,G,morí,n,V-more,mor,í,[3],mor|e,[3]
+659,hard_tokenization,pole,pl,G,polí,n,V-more,pol,í,[3],pol|e,[3]
+660,hard_tokenization,širokospektrálnosť,sg,G,širokospektrálnosti,f,možnosť,širokospektrálnost,i,[18],šir|ok|o|spektr|áln|osť,"[3, 5, 6, 12, 15]"
+661,hard_tokenization,nekonštruktívnosť,sg,G,nekonštruktívnosti,f,možnosť,nekonštruktívnost,i,[17],ne|kon|štruk|t|ívn|osť,"[2, 5, 10, 11, 14]"
+662,hard_tokenization,neodstrániteľnosť,sg,G,neodstrániteľnosti,f,možnosť,neodstrániteľnost,i,[17],ne|od|strán|iteľn|osť,"[2, 4, 9, 14]"
+663,hard_tokenization,nepreukázateľnosť,sg,G,nepreukázateľnosti,f,možnosť,nepreukázateľnost,i,[17],ne|pre|ukáz|ateľn|osť,"[2, 5, 9, 14]"
+664,hard_tokenization,kontraproduktívnosť,sg,G,kontraproduktívnosti,f,možnosť,kontraproduktívnost,i,[19],kontra|produk|t|ívn|osť,"[6, 12, 13, 16]"
+665,hard_tokenization,demonštratívnosť,sg,G,demonštratívnosti,f,možnosť,demonštratívnost,i,[16],demonštr|at|ívn|osť,"[8, 10, 13]"
+666,hard_tokenization,rýchločistiareň,pl,D,rýchločistiarňam,f,elektráreň,rýchločistiarň,am,[14],rýchl|o|čist|iareň,"[5, 6, 10]"
+667,hard_tokenization,spoluužívateľ,pl,L,spoluužívateľoch,mp,priateľ,spoluužívateľ,och,[13],spol|u|u|ží|v|ateľ,"[4, 5, 6, 8, 9]"
+668,hard_tokenization,inštrumentálnosť,sg,G,inštrumentálnosti,f,možnosť,inštrumentálnost,i,[16],inštru|ment|áln|osť,"[6, 10, 13]"
+669,hard_tokenization,znečisťovateľ,pl,L,znečisťovateľoch,mp,priateľ,znečisťovateľ,och,[13],z|ne|čisť|ov|ateľ,"[1, 3, 7, 9]"
+670,hard_tokenization,dvanásťnásobok,sg,G,dvanásťnásobku,mi,výsledok,dvanásťnásobk,u,[13],dv|a|násť|násob|ok,"[2, 3, 7, 12]"
+671,hard_tokenization,stvárňovateľ,pl,L,stvárňovateľoch,mp,priateľ,stvárňovateľ,och,[12],s|tvár|ň|ov|ateľ,"[1, 5, 6, 8]"
+672,hard_tokenization,zveľaďovateľ,pl,L,zveľaďovateľoch,mp,priateľ,zveľaďovateľ,och,[12],z|veľaď|ov|ateľ,"[1, 6, 8]"
+673,hard_tokenization,rádiomagnetofón,sg,G,rádiomagnetofónu,mi,zápas,rádiomagnetofón,u,[15],rádi|o|magnet|o|fón,"[4, 5, 11, 12]"
+674,hard_tokenization,samozásobovateľ,sg,D,samozásobovateľovi,mp,priateľ,samozásobovateľ,ovi,[15],sam|o|zásob|ov|ateľ,"[3, 4, 9, 11]"
+675,hard_tokenization,veľkopestovateľ,sg,D,veľkopestovateľovi,mp,priateľ,veľkopestovateľ,ovi,[15],veľ|k|o|pest|ov|ateľ,"[3, 4, 5, 9, 11]"
+676,hard_tokenization,voľnomyšlienkar,sg,D,voľnomyšlienkarovi,mp,chlap,voľnomyšlienkar,ovi,[15],voľ|n|o|myšl|ienk|ar,"[3, 4, 5, 9, 13]"
+677,hard_tokenization,spolupredkladateľ,sg,D,spolupredkladateľovi,mp,priateľ,spolupredkladateľ,ovi,[17],spol|u|pred|klad|ateľ,"[4, 5, 9, 13]"
+678,hard_tokenization,deväťdesiatnik,sg,D,deväťdesiatnikovi,mp,chlap,deväťdesiatnik,ovi,[14],deväť|desiat|nik,"[5, 11]"
+679,hard_tokenization,napodobňovateľ,sg,D,napodobňovateľovi,mp,priateľ,napodobňovateľ,ovi,[14],na|podob|ň|ov|ateľ,"[2, 7, 8, 10]"
+680,hard_tokenization,národohospodár,sg,D,národohospodárovi,mp,chlap,národohospodár,ovi,[14],ná|rod|o|hospod|ár,"[2, 5, 6, 12]"
+681,hard_tokenization,prevádzkovateľ,sg,D,prevádzkovateľovi,mp,priateľ,prevádzkovateľ,ovi,[14],pre|vádz|k|ov|ateľ,"[3, 7, 8, 10]"
+682,hard_tokenization,tiežpodnikateľ,sg,D,tiežpodnikateľovi,mp,priateľ,tiežpodnikateľ,ovi,[14],tiež|podnik|ateľ,"[4, 10]"
+683,hard_tokenization,veľkoobchodník,sg,D,veľkoobchodníkovi,mp,chlap,veľkoobchodník,ovi,[14],veľ|k|o|obchod|ník,"[3, 4, 5, 11]"
+684,hard_tokenization,rýchloopravovňa,sg,A,rýchloopravovňu,f,poisťovňa,rýchloopravovň,u,[14],rýchl|o|o|prav|ov|ň|a,"[5, 6, 7, 11, 13, 14]"
+685,hard_tokenization,veľkoodberateľ,sg,A,veľkoodberateľa,mp,priateľ,veľkoodberateľ,a,[14],veľ|k|o|od|ber|ateľ,"[3, 4, 5, 7, 10]"
+686,hard_tokenization,vykorisťovateľ,sg,A,vykorisťovateľa,mp,priateľ,vykorisťovateľ,a,[14],vy|korisť|ov|ateľ,"[2, 8, 10]"
+687,hard_tokenization,sprostredkovateľ,sg,A,sprostredkovateľa,mp,priateľ,sprostredkovateľ,a,[16],s|pro|stred|k|ov|ateľ,"[1, 4, 9, 10, 12]"
+688,hard_tokenization,akumulátorovňa,sg,A,akumulátorovňu,f,poisťovňa,akumulátorovň,u,[13],a|kumul|át|or|ovň|a,"[1, 6, 8, 10, 13]"
+689,hard_tokenization,vysťahovalkyňa,sg,A,vysťahovalkyňu,f,ulica,vysťahovalkyň,u,[13],vy|s|ťah|ov|al|k|yň|a,"[2, 3, 6, 8, 10, 11, 13]"
+690,hard_tokenization,ľahkomyseľnica,sg,A,ľahkomyseľnicu,f,ulica,ľahkomyseľnic,u,[13],ľah|k|o|myseľ|n|ic|a,"[3, 4, 5, 10, 11, 13]"
+691,hard_tokenization,štvrťfinalista,sg,A,štvrťfinalistu,mp,futbalista,štvrťfinalist,u,[13],štvr|ť|fin|al|ist|a,"[4, 5, 8, 10, 13]"
+692,hard_tokenization,znovunaštudovanie,sg,L,znovunaštudovaní,n,stretnutie,znovunaštudovan,í,[15],z|nov|u|na|štud|ov|an|ie,"[1, 4, 5, 7, 11, 13, 15]"
+693,hard_tokenization,elektroinžinier,sg,L,elektroinžinierovi,mp,chlap,elektroinžinier,ovi,[15],elektr|o|inžin|ier,"[6, 7, 12]"
+694,hard_tokenization,hydrometeorológ,sg,L,hydrometeorológovi,mp,syn,hydrometeorológ,ovi,[15],hydr|o|meteor|o|lóg,"[4, 5, 11, 12]"
+695,hard_tokenization,malospotrebiteľ,sg,L,malospotrebiteľovi,mp,priateľ,malospotrebiteľ,ovi,[15],mal|o|s|po|treb|iteľ,"[3, 4, 5, 7, 11]"
+696,hard_tokenization,poloprofesionál,sg,L,poloprofesionálovi,mp,chlap,poloprofesionál,ovi,[15],pol|o|profes|i|onál,"[3, 4, 10, 11]"
+697,hard_tokenization,zadosťučinenie,sg,L,zadosťučinení,n,stretnutie,zadosťučinen,í,[12],za|dosť|u|čin|en|ie,"[2, 6, 7, 10, 12]"
+698,hard_tokenization,experimentátor,sg,L,experimentátorovi,mp,chlap,experimentátor,ovi,[14],experi|ment|átor,"[6, 10]"
+699,hard_tokenization,spolupracovník,sg,L,spolupracovníkovi,mp,chlap,spolupracovník,ovi,[14],spol|u|prac|ov|ník,"[4, 5, 9, 11]"
+700,hard_tokenization,konzervatórium,pl,L,konzervatóriách,n,médium,konzervatóri,ách,[12],konzervatór|i|um,"[11, 12]"
+701,hard_tokenization,hydroelektráreň,sg,I,hydroelektrárňou,f,elektráreň,hydroelektrárň,ou,[14],hydr|o|elektr|áreň,"[4, 5, 11]"
+702,hard_tokenization,stereomagnetofón,sg,I,stereomagnetofónom,mi,zápas,stereomagnetofón,om,[16],stere|o|magnet|o|fón,"[5, 6, 12, 13]"
+703,hard_tokenization,dvadsaťnásobok,sg,I,dvadsaťnásobkom,mi,výsledok,dvadsaťnásobk,om,[13],dv|a|dsať|násob|ok,"[2, 3, 7, 12]"
+704,hard_tokenization,nanebovstúpenie,sg,I,nanebovstúpením,n,stretnutie,nanebovstúpen,ím,[13],na|neb|o|v|stúp|en|ie,"[2, 5, 6, 7, 11, 13]"
+705,hard_tokenization,samozásobovanie,sg,I,samozásobovaním,n,stretnutie,samozásobovan,ím,[13],sam|o|zásob|ov|an|ie,"[3, 4, 9, 11, 13]"
+706,hard_tokenization,jedenapolnásobok,pl,N,jedenapolnásobky,mi,výsledok,jedenapolnásobk,y,[15],jeden|a|pol|násob|ok,"[5, 6, 9, 14]"
+707,hard_tokenization,videomagnetofón,pl,N,videomagnetofóny,mi,zápas,videomagnetofón,y,[15],vide|o|magnet|o|fón,"[4, 5, 11, 12]"
+708,hard_tokenization,propán-bután,pl,N,propán-butány,mi,zápas,propán-bután,y,[12],propán-bután,[]
+709,hard_tokenization,stereogramofón,pl,N,stereogramofóny,mi,zápas,stereogramofón,y,[14],stere|o|gram|o|fón,"[5, 6, 10, 11]"
+710,hard_tokenization,ultrapravičiar,pl,N,ultrapravičiari,mp,chlap,ultrapravičiar,i,[14],ultra|prav|ič|iar,"[5, 9, 11]"
+711,hard_tokenization,zmŕtvychvstanie,pl,N,zmŕtvychvstania,n,stretnutie,zmŕtvychvstan,ia,[13],z|mŕ|t|v|ych|v|sta|n|ie,"[1, 3, 4, 5, 8, 9, 12, 13]"
+712,hard_tokenization,elektromagnetizmus,pl,N,elektromagnetizmy,mi,problém,elektromagnetizm,y,[16],elektr|o|magnet|izm|us,"[6, 7, 13, 16]"
+713,hard_tokenization,empiriokriticizmus,pl,D,empiriokriticizmom,mi,problém,empiriokriticizm,om,[16],empir|i|o|krit|ic|izm|us,"[5, 6, 7, 11, 13, 16]"
+714,hard_tokenization,internacionalista,pl,D,internacionalistom,mp,futbalista,internacionalist,om,[16],inter|nac|i|onal|ist|a,"[5, 8, 9, 13, 16]"
+715,hard_tokenization,internacionalizmus,pl,D,internacionalizmom,mi,problém,internacionalizm,om,[16],inter|nac|i|onal|izm|us,"[5, 8, 9, 13, 16]"
+716,hard_tokenization,privandrovalkyňa,pl,D,privandrovalkyniam,f,ulica,privandrovalkyn,iam,[15],pri|vandr|ov|al|k|yň|a,"[3, 8, 10, 12, 13, 15]"
+717,hard_tokenization,dekonštruktivizmus,pl,A,dekonštruktivizmy,mi,problém,dekonštruktivizm,y,[16],de|kon|štruk|t|ivizm|us,"[2, 5, 10, 11, 16]"
+718,hard_tokenization,environmentálizmus,pl,A,environmentálizmy,mi,problém,environmentálizm,y,[16],environmentálizmus,[]
+719,hard_tokenization,konštruktivizmus,pl,D,konštruktivizmom,mi,problém,konštruktivizm,om,[14],kon|štruk|t|ivizm|us,"[3, 8, 9, 14]"
+720,hard_tokenization,lokálpatriotizmus,pl,A,lokálpatriotizmy,mi,problém,lokálpatriotizm,y,[15],lok|ál|patri|ot|izm|us,"[3, 5, 10, 12, 15]"
+721,hard_tokenization,postštrukturalizmus,pl,A,postštrukturalizmy,mi,problém,postštrukturalizm,y,[17],post|štrukt|ur|alizm|us,"[4, 10, 12, 17]"
+722,hard_tokenization,ultranacionalizmus,pl,D,ultranacionalizmom,mi,problém,ultranacionalizm,om,[16],ultra|nac|i|onalizm|us,"[5, 8, 9, 16]"
+723,hard_tokenization,šampiňonáreň,pl,D,šampiňonárňam,f,elektráreň,šampiňonárň,am,[11],šampiňon|áreň,[8]
+724,hard_tokenization,dvaapolnásobok,pl,D,dvaapolnásobkom,mi,výsledok,dvaapolnásobk,om,[13],dv|a|a|pol|násob|ok,"[2, 3, 4, 7, 12]"
+725,hard_tokenization,štrukturalista,pl,A,štrukturalistov,mp,futbalista,štrukturalist,ov,[13],štrukt|ur|alist|a,"[6, 8, 13]"
+726,hard_tokenization,šesťčíslie,sg,I,šesťčíslím,n,stretnutie,šesťčísl,ím,[8],šesť|čísl|ie,"[4, 8]"
+727,hard_tokenization,päťčíslie,sg,I,päťčíslím,n,stretnutie,päťčísl,ím,[7],päť|čísl|ie,"[3, 7]"
+728,hard_tokenization,nevypočítateľnosť,pl,G,nevypočítateľností,f,možnosť,nevypočítateľnost,í,[17],ne|vy|po|čít|ateľn|osť,"[2, 4, 6, 9, 14]"
+729,hard_tokenization,medzipristátie,pl,A,medzipristátia,n,stretnutie,medzipristát,ia,[12],medzi|pri|stá|t|ie,"[5, 8, 11, 12]"
+730,hard_tokenization,rozlíšiteľnosť,pl,I,rozlíšiteľnosťami,f,možnosť,rozlíšiteľnosť,ami,[14],roz|líš|iteľn|osť,"[3, 6, 11]"
+731,hard_tokenization,rýchlokorčuľovanie,pl,G,rýchlokorčuľovaní,n,stretnutie,rýchlokorčuľovan,í,[16],rýchl|o|korčuľ|ov|an|ie,"[5, 6, 12, 14, 16]"
+732,hard_tokenization,podpráporčík,pl,A,podpráporčíkov,mp,chlap,podpráporčík,ov,[12],pod|prápor|čík,"[3, 9]"
+733,hard_tokenization,zúčtovateľnosť,pl,I,zúčtovateľnosťami,f,možnosť,zúčtovateľnosť,ami,[14],z|účt|ov|ateľn|osť,"[1, 4, 6, 11]"
+734,hard_tokenization,šesťslabičnosť,pl,I,šesťslabičnosťami,f,možnosť,šesťslabičnosť,ami,[14],šesť|slab|ič|n|osť,"[4, 8, 10, 11]"
+735,hard_tokenization,škálovateľnosť,pl,I,škálovateľnosťami,f,možnosť,škálovateľnosť,ami,[14],škál|ov|ateľn|osť,"[4, 6, 11]"
+736,hard_tokenization,šéfkonštruktér,pl,A,šéfkonštruktérov,mp,chlap,šéfkonštruktér,ov,[14],šéf|kon|štruk|t|ér,"[3, 6, 11, 12]"
+737,hard_tokenization,ťažkomyseľnosť,pl,I,ťažkomyseľnosťami,f,možnosť,ťažkomyseľnosť,ami,[14],ťaž|k|o|myseľ|n|osť,"[3, 4, 5, 10, 11]"
+738,hard_tokenization,zaneprázdnenie,pl,A,zaneprázdnenia,n,stretnutie,zaneprázdnen,ia,[12],za|ne|prázdn|en|ie,"[2, 4, 10, 12]"
+739,hard_tokenization,černokňažník,pl,L,černokňažníkoch,mp,chlap,černokňažník,och,[12],čern|o|kňaž|ník,"[4, 5, 9]"
+740,hard_tokenization,požívačník,pl,L,požívačníkoch,mp,chlap,požívačník,och,[10],po|ží|v|ač|ník,"[2, 4, 5, 7]"
+741,hard_tokenization,štvrťstoročie,sg,I,štvrťstoročím,n,stretnutie,štvrťstoroč,ím,[11],štvr|ť|st|o|roč|ie,"[4, 5, 7, 8, 11]"
+742,hard_tokenization,šéfmanažér,pl,L,šéfmanažéroch,mp,chlap,šéfmanažér,och,[10],šéf|manaž|ér,"[3, 8]"
+743,hard_tokenization,šéfrežisér,pl,L,šéfrežiséroch,mp,chlap,šéfrežisér,och,[10],šéf|rež|isér,"[3, 6]"
+744,hard_tokenization,štrukturalizmus,pl,A,štrukturalizmy,mi,problém,štrukturalizm,y,[13],štrukt|ur|alizm|us,"[6, 8, 13]"
+745,hard_tokenization,ťuťmáčik,pl,N,ťuťmáčikovia,mp,syn,ťuťmáčik,ovia,[8],ťuťm|áč|ik,"[4, 6]"
+746,hard_tokenization,prívrženkyňa,pl,G,prívrženkýň,f,ulica,prívrženkýň,ø,[],prí|vrž|en|k|yň|a,"[3, 6, 8, 9, 11]"
+747,hard_tokenization,abstrakcionista,pl,A,abstrakcionistov,mp,futbalista,abstrakcionist,ov,[14],abs|trak|ci|onist|a,"[3, 7, 9, 14]"
+748,hard_tokenization,štvorčíslie,sg,I,štvorčíslím,n,stretnutie,štvorčísl,ím,[9],štv|or|čísl|ie,"[3, 5, 9]"
+749,hard_tokenization,obľúbenkyňa,pl,G,obľúbenkýň,f,ulica,obľúbenkýň,ø,[],ob|ľúb|en|k|yň|a,"[2, 5, 7, 8, 10]"
+750,hard_tokenization,čerešňovica,pl,G,čerešňovíc,f,ulica,čerešňovíc,ø,[],čerešň|ov|ic|a,"[6, 8, 10]"
+751,hard_tokenization,konjunkturalizmus,pl,L,konjunkturalizmoch,mi,problém,konjunkturalizm,och,[15],konjunkt|ur|alizm|us,"[8, 10, 15]"
+752,hard_tokenization,päťročnica,pl,G,päťročníc,f,ulica,päťročníc,ø,[],päť|roč|n|ic|a,"[3, 6, 7, 9]"
+753,hard_tokenization,súťaženie,sg,I,súťažením,n,stretnutie,súťažen,ím,[7],súťaž|en|ie,"[5, 7]"
+754,hard_tokenization,zmýšľanie,sg,I,zmýšľaním,n,stretnutie,zmýšľan,ím,[7],z|mýšľ|an|ie,"[1, 5, 7]"
+755,hard_tokenization,strážkyňa,pl,G,strážkýň,f,ulica,strážkýň,ø,[],stráž|k|yň|a,"[5, 6, 8]"
+756,hard_tokenization,šášie,sg,I,šáším,n,stretnutie,šáš,ím,[3],šáš|ie,[3]
+757,hard_tokenization,pseudohistorizmus,pl,L,pseudohistorizmoch,mi,problém,pseudohistorizm,och,[15],pseudo|histor|izm|us,"[6, 12, 15]"
+758,hard_tokenization,generálporučík,pl,A,generálporučíkov,mp,chlap,generálporučík,ov,[14],gener|ál|po|ruč|ík,"[5, 7, 9, 12]"
+759,hard_tokenization,krasokorčuľovanie,pl,G,krasokorčuľovaní,n,stretnutie,krasokorčuľovan,í,[15],kras|o|korčuľ|ov|an|ie,"[4, 5, 11, 13, 15]"
+760,hard_tokenization,ľahkomyseľník,pl,L,ľahkomyseľníkoch,mp,chlap,ľahkomyseľník,och,[13],ľah|k|o|myseľ|n|ík,"[3, 4, 5, 10, 11]"
+761,hard_tokenization,šéfkomentátor,pl,L,šéfkomentátoroch,mp,chlap,šéfkomentátor,och,[13],šéf|koment|át|or,"[3, 9, 11]"
+762,hard_tokenization,splnomocnenkyňa,pl,L,splnomocnenkyniach,f,ulica,splnomocnenkyn,iach,[14],s|pln|o|moc|n|en|k|yň|a,"[1, 4, 5, 8, 9, 11, 12, 14]"
+763,hard_tokenization,prisťahovalkyňa,pl,G,prisťahovalkýň,f,ulica,prisťahovalkýň,ø,[],pri|s|ťah|ov|al|k|yň|a,"[3, 4, 7, 9, 11, 12, 14]"
+764,hard_tokenization,spolunažívanie,sg,I,spolunažívaním,n,stretnutie,spolunažívan,ím,[12],spol|u|na|ží|v|an|ie,"[4, 5, 7, 9, 10, 12]"
+765,hard_tokenization,legislatívkyňa,pl,G,legislatívkýň,f,ulica,legislatívkýň,ø,[],legis|lat|ív|k|yň|a,"[5, 8, 10, 11, 13]"
+766,hard_tokenization,prírodopiskyňa,pl,G,prírodopiskýň,f,ulica,prírodopiskýň,ø,[],prí|rod|o|pis|k|yň|a,"[3, 6, 7, 10, 11, 13]"
+767,hard_tokenization,prírodovedkyňa,pl,G,prírodovedkýň,f,ulica,prírodovedkýň,ø,[],prí|rod|o|ved|k|yň|a,"[3, 6, 7, 10, 11, 13]"
+768,hard_tokenization,spoluväzenkyňa,pl,G,spoluväzenkýň,f,ulica,spoluväzenkýň,ø,[],spol|u|väz|en|kyň|a,"[4, 5, 8, 10, 13]"
+769,hard_tokenization,úbožiačik,pl,N,úbožiačikovia,mp,syn,úbožiačik,ovia,[9],úbož|iač|ik,"[4, 7]"
+770,hard_tokenization,arcivojvodkyňa,pl,I,arcivojvodkyňami,f,ulica,arcivojvodkyň,ami,[13],arci|voj|vod|kyň|a,"[4, 7, 10, 13]"
+771,hard_tokenization,štvrtáčik,pl,N,štvrtáčikovia,mp,syn,štvrtáčik,ovia,[9],štvr|t|áč|ik,"[4, 5, 7]"
+772,hard_tokenization,fešákčik,pl,N,fešákčikovia,mp,syn,fešákčik,ovia,[8],fešákčik,[]
+773,hard_tokenization,bruchovravkyňa,pl,I,bruchovravkyňami,f,ulica,bruchovravkyň,ami,[13],bruch|o|vrav|k|yň|a,"[5, 6, 10, 11, 13]"
+774,hard_tokenization,rečňovanka,pl,N,rečňovanky,f,žena,rečňovank,y,[9],reč|ň|ovank|a,"[3, 4, 9]"
+775,hard_tokenization,rozptyľovač,pl,N,rozptyľovače,mi,stroj,rozptyľovač,e,[11],rozptyľ|ov|ač,"[7, 9]"
+776,hard_tokenization,heterosexuálka,pl,N,heterosexuálky,f,otázka,heterosexuálk,y,[13],heter|o|sex|uál|k|a,"[5, 6, 9, 12, 13]"
+777,hard_tokenization,výšivkár,pl,A,výšivkárov,mp,chlap,výšivkár,ov,[8],vý|ši|v|k|ár,"[2, 4, 5, 6]"
+778,hard_tokenization,dvojmocnina,pl,N,dvojmocniny,f,žena,dvojmocnin,y,[10],dv|oj|moc|n|in|a,"[2, 4, 7, 8, 10]"
+779,hard_tokenization,družstevník,sg,I,družstevníkom,mp,chlap,družstevník,om,[11],druž|stev|ník,"[4, 8]"
+780,hard_tokenization,nepriehľadnosť,pl,N,nepriehľadnosti,f,možnosť,nepriehľadnost,i,[14],ne|prie|hľad|n|osť,"[2, 6, 10, 11]"
+781,hard_tokenization,škrabľavosť,pl,N,škrabľavosti,f,možnosť,škrabľavost,i,[11],škrab|ľav|osť,"[5, 8]"
+782,hard_tokenization,pirôžtek,pl,N,pirôžteky,mi,jazyk,pirôžtek,y,[8],pirôžtek,[]
+783,hard_tokenization,spravodajca,pl,N,spravodajcovia,mp,hrdina,spravodajc,ovia,[10],sprav|o|d|aj|c|a,"[5, 6, 7, 9, 10]"
+784,hard_tokenization,vodnopólistka,sg,A,vodnopólistku,f,žena,vodnopólistk,u,[12],vod|n|o|pól|ist|k|a,"[3, 4, 5, 8, 11, 12]"
+785,hard_tokenization,štrkodrvina,sg,G,štrkodrviny,f,žena,štrkodrvin,y,[10],štrk|o|drv|in|a,"[4, 5, 8, 10]"
+786,hard_tokenization,nepriaznivosť,sg,G,nepriaznivosti,f,možnosť,nepriaznivost,i,[13],ne|pria|zn|iv|osť,"[2, 6, 8, 10]"
+787,hard_tokenization,šéfinšpektor,sg,A,šéfinšpektora,mp,chlap,šéfinšpektor,a,[12],šéf|inšpekt|or,"[3, 10]"
+788,hard_tokenization,sufražetka,sg,D,sufražetke,f,žena,sufražetk,e,[9],sufražet|k|a,"[8, 9]"
+789,hard_tokenization,zrieďovadlo,sg,D,zrieďovadlu,n,mesto,zrieďovadl,u,[10],z|rieď|ov|adl|o,"[1, 5, 7, 10]"
+790,hard_tokenization,štvrťhodinka,sg,L,štvrťhodinke,f,žena,štvrťhodink,e,[11],štvr|ť|hodin|k|a,"[4, 5, 10, 11]"
+791,hard_tokenization,bruchopasník,sg,I,bruchopasníkom,mp,chlap,bruchopasník,om,[12],bruch|o|pas|ník,"[5, 6, 9]"
+792,hard_tokenization,nepárnokopytník,pl,D,nepárnokopytníkom,ma,had,nepárnokopytník,om,[15],ne|pár|n|o|kopyt|ník,"[2, 5, 6, 7, 12]"
+793,hard_tokenization,deskriptivár,pl,A,deskriptivárov,mp,chlap,deskriptivár,ov,[12],de|skrip|t|iv|ár,"[2, 7, 8, 10]"
+794,hard_tokenization,vznášadlo,pl,A,vznášadlá,n,mesto,vznášadl,á,[8],vz|náš|adl|o,"[2, 5, 8]"
+795,hard_tokenization,strojmajsterka,sg,D,strojmajsterke,f,žena,strojmajsterk,e,[13],stroj|majst|er|k|a,"[5, 10, 12, 13]"
+796,hard_tokenization,choroboplodnosť,sg,G,choroboplodnosti,f,možnosť,choroboplodnost,i,[15],chor|ob|o|plod|n|osť,"[4, 6, 7, 11, 12]"
+797,hard_tokenization,dvojtýždenník,sg,I,dvojtýždenníkom,mi,jazyk,dvojtýždenník,om,[13],dv|oj|týžden|n|ík,"[2, 4, 10, 11]"
+798,hard_tokenization,vysokoškolák,sg,I,vysokoškolákom,mp,chlap,vysokoškolák,om,[12],vys|ok|o|škol|ák,"[3, 5, 6, 10]"
+799,hard_tokenization,sebaspytovanie,sg,D,sebaspytovaniu,n,stretnutie,sebaspytovan,iu,[12],seb|a|s|pyt|ov|an|ie,"[3, 4, 5, 8, 10, 12]"
+800,hard_tokenization,meteosenzitivita,sg,A,meteosenzitivitu,f,žena,meteosenzitivit,u,[15],mete|o|senz|itivit|a,"[4, 5, 9, 15]"
+801,hard_tokenization,sukničkár,pl,A,sukničkárov,mp,chlap,sukničkár,ov,[9],suk|n|ičk|ár,"[3, 4, 7]"
+802,hard_tokenization,búrlivák,pl,D,búrlivákom,mp,chlap,búrlivák,om,[8],búr|liv|ák,"[3, 6]"
+803,hard_tokenization,všežravosť,pl,A,všežravosti,f,možnosť,všežravost,i,[10],vše|žr|av|osť,"[3, 5, 7]"
+804,hard_tokenization,kameňorytec,pl,L,kameňorytcoch,mp,chlapec,kameňorytc,och,[10],kameň|o|ry|t|ec,"[5, 6, 8, 9]"
+805,hard_tokenization,úzkokoľajka,sg,A,úzkokoľajku,f,žena,úzkokoľajk,u,[10],úz|k|o|koľ|aj|k|a,"[2, 3, 4, 7, 9, 10]"
+806,hard_tokenization,daktylotrochej,pl,N,daktylotrocheje,mi,stroj,daktylotrochej,e,[14],daktyl|o|trochej,"[6, 7]"
+807,hard_tokenization,šesťstotrojka,sg,G,šesťstotrojky,f,žena,šesťstotrojk,y,[12],šesť|st|o|tr|oj|k|a,"[4, 6, 7, 9, 11, 12]"
+808,hard_tokenization,veľkostatkár,pl,A,veľkostatkárov,mp,chlap,veľkostatkár,ov,[12],veľ|k|o|stat|k|ár,"[3, 4, 5, 9, 10]"
+809,hard_tokenization,roztopašník,pl,D,roztopašníkom,mp,chlap,roztopašník,om,[11],roztopaš|n|ík,"[8, 9]"
+810,hard_tokenization,cudzopasník,sg,I,cudzopasníkom,ma,had,cudzopasník,om,[11],cudz|o|pas|n|ík,"[4, 5, 8, 9]"
+811,hard_tokenization,bruchovravectvo,sg,D,bruchovravectvu,n,mesto,bruchovravectv,u,[14],bruch|o|vrav|ec|tv|o,"[5, 6, 10, 12, 14]"
+812,hard_tokenization,ctižiadostivec,pl,L,ctižiadostivcoch,mp,chlapec,ctižiadostivc,och,[13],ct|i|žiad|ost|iv|ec,"[2, 3, 7, 10, 12]"
+813,hard_tokenization,kváziodborník,sg,I,kváziodborníkom,mp,chlap,kváziodborník,om,[13],kvázi|odbor|ník,"[5, 10]"
+814,hard_tokenization,zlomyseľník,sg,I,zlomyseľníkom,mp,chlap,zlomyseľník,om,[11],zl|o|myseľ|n|ík,"[2, 3, 8, 9]"
+815,hard_tokenization,uhľovodík,pl,D,uhľovodíkom,mi,jazyk,uhľovodík,om,[9],uhľ|o|vod|ík,"[3, 4, 7]"
+816,hard_tokenization,šéfmanažérka,pl,N,šéfmanažérky,f,otázka,šéfmanažérk,y,[11],šéf|manaž|ér|k|a,"[3, 8, 10, 11]"
+817,hard_tokenization,zlepšovák,pl,D,zlepšovákom,mi,jazyk,zlepšovák,om,[9],z|lep|š|ov|ák,"[1, 4, 5, 7]"
+818,hard_tokenization,verejnoprávnosť,pl,A,verejnoprávnosti,f,možnosť,verejnoprávnost,i,[15],verej|n|o|práv|n|osť,"[5, 6, 7, 11, 12]"
+819,hard_tokenization,ťuťmáčka,sg,L,ťuťmáčke,f,otázka,ťuťmáčk,e,[7],ťuťm|áč|k|a,"[4, 6, 7]"
+820,hard_tokenization,súťaživosť,pl,N,súťaživosti,f,možnosť,súťaživost,i,[10],súťaž|iv|osť,"[5, 7]"
+821,hard_tokenization,ľahkomyseľník,sg,I,ľahkomyseľníkom,mp,chlap,ľahkomyseľník,om,[13],ľah|k|o|myseľ|n|ík,"[3, 4, 5, 10, 11]"
+822,hard_tokenization,päťstokorunáčka,sg,G,päťstokorunáčky,f,otázka,päťstokorunáčk,y,[14],päť|st|o|korun|áčk|a,"[3, 5, 6, 11, 14]"
+823,hard_tokenization,prispôsobivosť,pl,A,prispôsobivosti,f,možnosť,prispôsobivost,i,[14],prispôsobivosť,[]
+824,hard_tokenization,nezávisláctvo,sg,D,nezávisláctvu,n,miesto,nezávisláctv,u,[12],ne|zá|vis|l|ác|tv|o,"[2, 4, 7, 8, 10, 12]"
+825,hard_tokenization,zlomyseľníčka,sg,L,zlomyseľníčke,f,otázka,zlomyseľníčk,e,[12],zl|o|myseľ|n|íč|k|a,"[2, 3, 8, 9, 11, 12]"
+826,hard_tokenization,poľutovaniahodnosť,pl,A,poľutovaniahodnosti,f,možnosť,poľutovaniahodnost,i,[18],po|ľut|ov|an|ia|hodn|osť,"[2, 5, 7, 9, 11, 15]"
+827,hard_tokenization,odpočívadlo,pl,A,odpočívadlá,n,mesto,odpočívadl,á,[10],od|počív|adl|o,"[2, 7, 10]"
+828,hard_tokenization,veľkoprodukcia,pl,N,veľkoprodukcie,f,situácia,veľkoprodukc,ie,[12],veľ|k|o|produk|ci|a,"[3, 4, 5, 11, 13]"
+829,hard_tokenization,nespoľahlivosť,sg,D,nespoľahlivosti,f,možnosť,nespoľahlivost,i,[14],ne|spoľah|liv|osť,"[2, 8, 11]"
+830,hard_tokenization,poloprofesionálka,sg,L,poloprofesionálke,f,otázka,poloprofesionálk,e,[16],pol|o|profes|i|onál|k|a,"[3, 4, 10, 11, 15, 16]"
+831,hard_tokenization,šéfinžinier,sg,G,šéfinžiniera,mp,chlap,šéfinžinier,a,[11],šéf|inžin|ier,"[3, 8]"
+832,hard_tokenization,elektrokonštruktér,pl,G,elektrokonštruktérov,mp,chlap,elektrokonštruktér,ov,[18],elektr|o|kon|štruk|tér,"[6, 7, 10, 15]"
+833,hard_tokenization,škodoradostník,sg,I,škodoradostníkom,mp,chlap,škodoradostník,om,[14],škod|o|rad|ost|n|ík,"[4, 5, 8, 11, 12]"
+834,hard_tokenization,začiatočníctvo,sg,D,začiatočníctvu,n,miesto,začiatočníctv,u,[13],za|čia|t|oč|níc|tv|o,"[2, 5, 6, 8, 11, 13]"
+835,hard_tokenization,elektroinštalatér,pl,L,elektroinštalatéroch,mp,chlap,elektroinštalatér,och,[17],elektr|o|inštal|at|ér,"[6, 7, 13, 15]"
+836,hard_tokenization,bezvýhľadnosť,sg,D,bezvýhľadnosti,f,možnosť,bezvýhľadnost,i,[13],bez|vý|hľad|n|osť,"[3, 5, 9, 10]"
+837,hard_tokenization,nedôverčivec,pl,L,nedôverčivcoch,mp,chlapec,nedôverčivc,och,[11],nedôverčivec,[]
+838,hard_tokenization,päťuholník,sg,I,päťuholníkom,mi,jazyk,päťuholník,om,[10],päť|uhol|ník,"[3, 7]"
+839,hard_tokenization,krasokorčuľovanie,sg,D,krasokorčuľovaniu,n,stretnutie,krasokorčuľovan,iu,[15],kras|o|korčuľ|ov|an|ie,"[4, 5, 11, 13, 15]"
+840,hard_tokenization,černokňažníctvo,sg,D,černokňažníctvu,n,miesto,černokňažníctv,u,[14],čern|o|kňaž|níc|tv|o,"[4, 5, 9, 12, 14]"
+841,hard_tokenization,kaučukovník,pl,G,kaučukovníkov,mi,jazyk,kaučukovník,ov,[11],kaučuk|ov|ník,"[6, 8]"
+842,hard_tokenization,nesvojprávnosť,sg,D,nesvojprávnosti,f,možnosť,nesvojprávnost,i,[14],ne|svoj|práv|n|osť,"[2, 6, 10, 11]"
+843,hard_tokenization,závisláctvo,sg,D,závisláctvu,n,miesto,závisláctv,u,[10],zá|vis|l|ác|tv|o,"[2, 5, 6, 8, 10]"
+844,hard_tokenization,tenorsaxofonistka,sg,L,tenorsaxofonistke,f,žena,tenorsaxofonistk,e,[16],tenor|sax|o|fon|ist|k|a,"[5, 8, 9, 12, 15, 16]"
+845,hard_tokenization,dekonštrukcia,sg,L,dekonštrukcii,f,situácia,dekonštrukci,i,[12],de|kon|štruk|ci|a,"[2, 5, 10, 12]"
+846,hard_tokenization,obojživelník,pl,D,obojživelníkom,ma,had,obojživelník,om,[12],ob|oj|živ|el|n|ík,"[2, 4, 7, 9, 10]"
+847,hard_tokenization,sebauvedomovanie,sg,D,sebauvedomovaniu,n,stretnutie,sebauvedomovan,iu,[14],seb|a|u|ved|om|ov|an|ie,"[3, 4, 5, 8, 10, 12, 14]"
+848,hard_tokenization,zväčšovák,pl,D,zväčšovákom,mi,jazyk,zväčšovák,om,[9],z|väč|š|ov|ák,"[1, 4, 5, 7]"
+849,hard_tokenization,šéfkomisár,sg,A,šéfkomisára,mp,chlap,šéfkomisár,a,[10],šéf|komis|ár,"[3, 8]"
+850,hard_tokenization,zjednoslovňovanie,pl,L,zjednoslovňovaniach,n,stretnutie,zjednoslovňovan,iach,[15],z|jedn|o|slov|ň|ov|an|ie,"[1, 5, 6, 10, 11, 13, 15]"
+851,hard_tokenization,šmykľavosť,pl,A,šmykľavosti,f,možnosť,šmykľavost,i,[10],šmyk|ľav|osť,"[4, 7]"
+852,hard_tokenization,sebapozorovanie,pl,L,sebapozorovaniach,n,stretnutie,sebapozorovan,iach,[13],seb|a|po|zor|ov|an|ie,"[3, 4, 6, 9, 11, 13]"
+853,hard_tokenization,roznecovadlo,pl,A,roznecovadlá,n,mesto,roznecovadl,á,[11],roz|nec|ov|adl|o,"[3, 6, 8, 11]"
+854,hard_tokenization,autodeštrukcia,sg,L,autodeštrukcii,f,situácia,autodeštrukci,i,[13],aut|o|de|štruk|ci|a,"[3, 4, 6, 11, 13]"
+855,hard_tokenization,výsmeškár,pl,G,výsmeškárov,mp,chlap,výsmeškár,ov,[9],vý|sme|š|k|ár,"[2, 5, 6, 7]"
+856,hard_tokenization,mäsožravosť,pl,N,mäsožravosti,f,možnosť,mäsožravost,i,[11],mäs|o|žr|av|osť,"[3, 4, 6, 8]"
+857,hard_tokenization,rukavičkár,sg,I,rukavičkárom,mp,chlap,rukavičkár,om,[10],ruk|avič|k|ár,"[3, 7, 8]"
+858,hard_tokenization,rýchlokorčuľovanie,sg,D,rýchlokorčuľovaniu,n,stretnutie,rýchlokorčuľovan,iu,[16],rýchl|o|korčuľ|ov|an|ie,"[5, 6, 12, 14, 16]"
+859,hard_tokenization,týždenník,pl,D,týždenníkom,mp,chlap,týždenník,om,[9],týžden|ník,[6]
+860,hard_tokenization,staroslovienčina,pl,N,staroslovienčiny,f,žena,staroslovienčin,y,[15],star|o|slovien|čin|a,"[4, 5, 12, 15]"
+861,hard_tokenization,výčapník,sg,I,výčapníkom,mp,chlap,výčapník,om,[8],vý|čap|ník,"[2, 5]"
+862,hard_tokenization,príštipkár,sg,D,príštipkárovi,mp,chlap,príštipkár,ovi,[10],prí|štip|k|ár,"[3, 7, 8]"
+863,hard_tokenization,kontrarevolucionár,sg,L,kontrarevolucionárovi,mp,chlap,kontrarevolucionár,ovi,[18],kontra|re|vol|uci|onár,"[6, 8, 11, 14]"
+864,hard_tokenization,postštrukturalistka,sg,A,postštrukturalistku,f,žena,postštrukturalistk,u,[18],post|štrukt|ur|alist|k|a,"[4, 10, 12, 17, 18]"
+865,hard_tokenization,bezvýchodiskovosť,sg,D,bezvýchodiskovosti,f,možnosť,bezvýchodiskovost,i,[17],bez|vý|chod|isk|ov|osť,"[3, 5, 9, 12, 14]"
+866,hard_tokenization,krasokorčuliar,sg,G,krasokorčuliara,mp,chlap,krasokorčuliar,a,[14],kras|o|korčul|iar,"[4, 5, 11]"
+867,hard_tokenization,fantazmagória,pl,A,fantazmagórie,f,situácia,fantazmagór,ie,[11],fantazmagór|i|a,"[11, 12]"
+868,hard_tokenization,gréckokatolík,sg,A,gréckokatolíka,mp,chlap,gréckokatolík,a,[13],gréc|k|o|katol|ík,"[4, 5, 6, 11]"
+869,hard_tokenization,cikádočkovité,sg,D,cikádočkovitému,n,cestovné,cikádočkovit,ému,[12],cikád|očk|ovit|é,"[5, 8, 12]"
+870,hard_tokenization,imidžmejkerka,sg,A,imidžmejkerku,f,žena,imidžmejkerk,u,[12],imidž|mejk|er|k|a,"[5, 9, 11, 12]"
+871,hard_tokenization,peňazokazectvo,sg,D,peňazokazectvu,n,mesto,peňazokazectv,u,[13],peňaz|o|kaz|ec|tv|o,"[5, 6, 9, 11, 13]"
+872,hard_tokenization,sebapoznávanie,sg,D,sebapoznávaniu,n,stretnutie,sebapoznávan,iu,[12],seb|a|po|zn|áv|an|ie,"[3, 4, 6, 8, 10, 12]"
+873,hard_tokenization,kníhkupectvo,sg,D,kníhkupectvu,n,mesto,kníhkupectv,u,[11],kníh|kup|ec|tv|o,"[4, 7, 9, 11]"
+874,hard_tokenization,rýchlokorčuliar,sg,A,rýchlokorčuliara,mp,chlap,rýchlokorčuliar,a,[15],rýchl|o|korčul|iar,"[5, 6, 12]"
+875,hard_tokenization,fluorovodík,pl,D,fluorovodíkom,mi,jazyk,fluorovodík,om,[11],fluor|o|vod|ík,"[5, 6, 9]"
+876,hard_tokenization,strážmajsterka,sg,D,strážmajsterke,f,žena,strážmajsterk,e,[13],stráž|majst|er|k|a,"[5, 10, 12, 13]"
+877,hard_tokenization,kocúrkovčina,pl,N,kocúrkovčiny,f,žena,kocúrkovčin,y,[11],kocúr|k|ov|čin|a,"[5, 6, 8, 11]"
+878,hard_tokenization,šéfcukrár,sg,G,šéfcukrára,mp,chlap,šéfcukrár,a,[9],šéf|cukr|ár,"[3, 7]"
+879,hard_tokenization,dôstojník,sg,I,dôstojníkom,mp,chlap,dôstojník,om,[9],dôstojník,[]
+880,hard_tokenization,poddôstojník,sg,I,poddôstojníkom,mp,chlap,poddôstojník,om,[12],poddôstojník,[]
+881,hard_tokenization,prežúvavec,pl,L,prežúvavcoch,ma,dravec,prežúvavc,och,[9],pre|žú|v|av|ec,"[3, 5, 6, 8]"
+882,hard_tokenization,sebadeštrukcia,sg,D,sebadeštrukcii,f,situácia,sebadeštrukci,i,[13],seb|a|de|štruk|ci|a,"[3, 4, 6, 11, 13]"
+883,hard_tokenization,krviprelievanie,sg,D,krviprelievaniu,n,stretnutie,krviprelievan,iu,[13],krv|i|pre|lie|v|an|ie,"[3, 4, 7, 10, 11, 13]"
+884,hard_tokenization,sebaobmedzovanie,sg,D,sebaobmedzovaniu,n,stretnutie,sebaobmedzovan,iu,[14],seb|a|ob|medz|ov|an|ie,"[3, 4, 6, 10, 12, 14]"
+885,hard_tokenization,kameňorytectvo,sg,D,kameňorytectvu,n,mesto,kameňorytectv,u,[13],kameň|o|ry|t|ec|tv|o,"[5, 6, 8, 9, 11, 13]"
+886,hard_tokenization,stredoškolák,pl,D,stredoškolákom,mp,chlap,stredoškolák,om,[12],stred|o|škol|ák,"[5, 6, 10]"
+887,hard_tokenization,rozhadzovadlo,pl,A,rozhadzovadlá,n,mesto,rozhadzovadl,á,[12],roz|hadz|ov|adl|o,"[3, 7, 9, 12]"
+888,hard_tokenization,dekonštruktivista,pl,N,dekonštruktivisti,mp,futbalista,dekonštruktivist,i,[16],de|kon|štruk|t|ivist|a,"[2, 5, 10, 11, 16]"
+889,hard_tokenization,šéfinžinierka,sg,L,šéfinžinierke,f,otázka,šéfinžinierk,e,[12],šéf|inžin|ier|k|a,"[3, 8, 11, 12]"
+890,hard_tokenization,Východoeurópanka,sg,A,Východoeurópanku,f,žena,Východoeurópank,u,[15],Vý|chod|o|európ|an|k|a,"[2, 6, 7, 12, 14, 15]"
+891,hard_tokenization,chlpáňovité,sg,D,chlpáňovitému,n,cestovné,chlpáňovit,ému,[10],chlp|áň|ovit|é,"[4, 6, 10]"
+892,hard_tokenization,arcikniežactvo,sg,D,arcikniežactvu,n,mesto,arcikniežactv,u,[13],arci|kniež|ac|tv|o,"[4, 9, 11, 13]"
+893,hard_tokenization,svätuškár,pl,G,svätuškárov,mp,chlap,svätuškár,ov,[9],svät|uškár,[4]
+894,hard_tokenization,nadpráporčík,sg,A,nadpráporčíka,mp,chlap,nadpráporčík,a,[12],nad|prápor|čík,"[3, 9]"
+895,hard_tokenization,zmäkčovadlo,pl,A,zmäkčovadlá,n,mesto,zmäkčovadl,á,[10],z|mäk|č|ov|adl|o,"[1, 4, 5, 7, 10]"
+896,hard_tokenization,desaťkorunák,sg,D,desaťkorunáku,mi,jazyk,desaťkorunák,u,[12],desať|korun|ák,"[5, 10]"
+897,hard_tokenization,sebazapieranie,pl,L,sebazapieraniach,n,stretnutie,sebazapieran,iach,[12],seb|a|za|pier|an|ie,"[3, 4, 6, 10, 12]"
+898,hard_tokenization,gréckokatolíčka,sg,L,gréckokatolíčke,f,otázka,gréckokatolíčk,e,[14],gréc|k|o|katol|íč|k|a,"[4, 5, 6, 11, 13, 14]"
+899,hard_tokenization,povrážtek,sg,D,povrážteku,mi,jazyk,povrážtek,u,[9],povráž|t|ek,"[6, 7]"
+900,hard_tokenization,lúmensekunda,sg,L,lúmensekunde,f,žena,lúmensekund,e,[11],lúmen|sekund|a,"[5, 11]"
+901,hard_tokenization,sebavzdelávanie,sg,D,sebavzdelávaniu,n,stretnutie,sebavzdelávan,iu,[13],seb|a|vzdel|áv|an|ie,"[3, 4, 9, 11, 13]"
+902,hard_tokenization,zvlhčovač,pl,A,zvlhčovače,mi,stroj,zvlhčovač,e,[9],z|vlh|č|ov|ač,"[1, 4, 5, 7]"
+903,hard_tokenization,štrajkokazectvo,sg,D,štrajkokazectvu,n,mesto,štrajkokazectv,u,[14],štrajk|o|kaz|ectv|o,"[6, 7, 10, 14]"
+904,hard_tokenization,dvojstovkár,pl,A,dvojstovkárov,mp,chlap,dvojstovkár,ov,[11],dv|oj|st|ovk|ár,"[2, 4, 6, 9]"
+905,hard_tokenization,bylinožravec,sg,G,bylinožravca,ma,dravec,bylinožravc,a,[11],byl|in|o|žr|av|ec,"[3, 5, 6, 8, 10]"
+906,hard_tokenization,hrubokožec,pl,N,hrubokožce,ma,dravec,hrubokožc,e,[9],hrub|o|kož|ec,"[4, 5, 8]"
+907,hard_tokenization,zrážkomer,pl,L,zrážkomeroch,mi,zápas,zrážkomer,och,[9],z|ráž|k|o|mer,"[1, 4, 5, 6]"
+908,hard_tokenization,ľahkomyseľníčka,sg,D,ľahkomyseľníčke,f,otázka,ľahkomyseľníčk,e,[14],ľah|k|o|myseľ|n|íč|k|a,"[3, 4, 5, 10, 11, 13, 14]"
+909,hard_tokenization,dvojplošník,pl,D,dvojplošníkom,mi,jazyk,dvojplošník,om,[11],dv|oj|ploš|ník,"[2, 4, 8]"
+910,hard_tokenization,šesťuholník,pl,D,šesťuholníkom,mi,jazyk,šesťuholník,om,[11],šesť|uhol|ník,"[4, 8]"
+911,hard_tokenization,kontraadmirál,pl,L,kontraadmiráloch,mp,chlap,kontraadmirál,och,[13],kontra|admir|ál,"[6, 11]"
+912,hard_tokenization,demonštrátor,sg,G,demonštrátora,mp,chlap,demonštrátor,a,[12],demonštr|át|or,"[8, 10]"
+913,hard_tokenization,kváziodborníčka,sg,L,kváziodborníčke,f,otázka,kváziodborníčk,e,[14],kvázi|odbor|níč|k|a,"[5, 10, 13, 14]"
+914,hard_tokenization,svätokupectvo,sg,D,svätokupectvu,n,mesto,svätokupectv,u,[12],svät|o|kup|ec|tv|o,"[4, 5, 8, 10, 12]"
+915,hard_tokenization,autovakcína,sg,A,autovakcínu,f,otázka,autovakcín,u,[10],aut|o|vakcín|a,"[3, 4, 10]"
+916,hard_tokenization,inšpektorát,sg,L,inšpektoráte,mi,zápas,inšpektorát,e,[11],inšpekt|or|át,"[7, 9]"
+917,hard_tokenization,krížovkár,pl,G,krížovkárov,mp,chlap,krížovkár,ov,[9],kríž|ovk|ár,"[4, 7]"
+918,hard_tokenization,hmyzožravec,sg,A,hmyzožravca,ma,dravec,hmyzožravc,a,[10],hmyz|o|žr|av|ec,"[4, 5, 7, 9]"
+919,hard_tokenization,zradikalizovanie,sg,D,zradikalizovaniu,n,stretnutie,zradikalizovan,iu,[14],z|radik|al|izov|an|ie,"[1, 6, 8, 12, 14]"
+920,hard_tokenization,šéfarchitekt,pl,L,šéfarchitektoch,mp,chlap,šéfarchitekt,och,[12],šéf|architekt,[3]
+921,hard_tokenization,vyúčtovanie,sg,D,vyúčtovaniu,n,stretnutie,vyúčtovan,iu,[9],vy|účt|ov|an|ie,"[2, 5, 7, 9]"
+922,hard_tokenization,rekonštrukcia,sg,D,rekonštrukcii,f,situácia,rekonštrukci,i,[12],re|kon|štruk|ci|a,"[2, 5, 10, 12]"
+923,hard_tokenization,párnokopytník,pl,D,párnokopytníkom,ma,had,párnokopytník,om,[13],pár|n|o|kopyt|ník,"[3, 4, 5, 10]"
+924,hard_tokenization,vyťahovadlo,sg,D,vyťahovadlu,n,mesto,vyťahovadl,u,[10],vy|ťah|ov|adl|o,"[2, 5, 7, 10]"
+925,hard_tokenization,neposlušník,sg,I,neposlušníkom,mp,chlap,neposlušník,om,[11],ne|po|sluš|n|ík,"[2, 4, 8, 9]"
+926,hard_tokenization,hodvábnictvo,sg,D,hodvábnictvu,n,mesto,hodvábnictv,u,[11],hodváb|nic|tv|o,"[6, 9, 11]"
+927,hard_tokenization,rekonvalescencia,sg,A,rekonvalescenciu,f,situácia,rekonvalescenc,iu,[14],rekonval|escenci|a,"[8, 15]"
+928,hard_tokenization,nactiutŕhanie,sg,D,nactiutŕhaniu,n,stretnutie,nactiutŕhan,iu,[11],na|ct|i|u|tŕh|an|ie,"[2, 4, 5, 6, 9, 11]"
+929,hard_tokenization,dážďomer,pl,L,dážďomeroch,mi,zápas,dážďomer,och,[8],dážď|o|mer,"[4, 5]"
+930,hard_tokenization,trinitrotoluén,pl,D,trinitrotoluénom,mi,zápas,trinitrotoluén,om,[14],tri|nitr|o|tolu|én,"[3, 7, 8, 12]"
+931,hard_tokenization,mäkčidlo,sg,D,mäkčidlu,n,mesto,mäkčidl,u,[7],mäk|č|idl|o,"[3, 4, 7]"
+932,hard_tokenization,sebapreceňovanie,pl,L,sebapreceňovaniach,n,stretnutie,sebapreceňovan,iach,[14],seb|a|pre|ceň|ov|an|ie,"[3, 4, 7, 10, 12, 14]"
+933,hard_tokenization,brlôžtek,pl,N,brlôžteky,mi,jazyk,brlôžtek,y,[8],brlôžtek,[]
+934,hard_tokenization,nadstrážmajsterka,sg,L,nadstrážmajsterke,f,žena,nadstrážmajsterk,e,[16],nad|stráž|majst|er|k|a,"[3, 8, 13, 15, 16]"
+935,hard_tokenization,znárodňovanie,pl,L,znárodňovaniach,n,stretnutie,znárodňovan,iach,[11],z|ná|rod|ň|ov|an|ie,"[1, 3, 6, 7, 9, 11]"
+936,hard_tokenization,súhvezdie,sg,D,súhvezdiu,n,stretnutie,súhvezd,iu,[7],sú|hvezd|ie,"[2, 7]"
+937,hard_tokenization,konštruktivista,pl,N,konštruktivisti,mp,futbalista,konštruktivist,i,[14],kon|štruk|t|ivist|a,"[3, 8, 9, 14]"
+938,hard_tokenization,sebaobetovanie,sg,D,sebaobetovaniu,n,stretnutie,sebaobetovan,iu,[12],seb|a|obet|ov|an|ie,"[3, 4, 8, 10, 12]"
+939,hard_tokenization,malopredajca,pl,N,malopredajcovia,mp,hrdina,malopredajc,ovia,[11],mal|o|pre|d|aj|c|a,"[3, 4, 7, 8, 10, 11]"
+940,hard_tokenization,sebauspokojovanie,sg,D,sebauspokojovaniu,n,stretnutie,sebauspokojovan,iu,[15],seb|a|u|s|pokoj|ov|an|ie,"[3, 4, 5, 6, 11, 13, 15]"
+941,hard_tokenization,duchaprítomnosť,sg,G,duchaprítomnosti,f,možnosť,duchaprítomnost,i,[15],duch|a|prí|t|om|n|osť,"[4, 5, 8, 9, 11, 12]"
+942,hard_tokenization,veľvyslankyňa,pl,G,veľvyslankýň,f,ulica,veľvyslankýň,ø,[],veľ|vy|sl|an|k|yň|a,"[3, 5, 7, 9, 10, 12]"
+943,hard_tokenization,sprostredkovateľňa,sg,L,sprostredkovateľni,f,poisťovňa,sprostredkovateľni,ø,[],s|pro|stred|k|ov|ateľ|ň|a,"[1, 4, 9, 10, 12, 16, 17]"
+944,hard_tokenization,zákonodarkyňa,pl,I,zákonodarkyňami,f,ulica,zákonodarkyň,ami,[12],zákon|o|dar|k|yň|a,"[5, 6, 9, 10, 12]"
+945,hard_tokenization,privandrovankyňa,pl,G,privandrovankýň,f,ulica,privandrovankýň,ø,[],pri|vandr|ov|an|k|yň|a,"[3, 8, 10, 12, 13, 15]"
+946,hard_tokenization,tovaroznalkyňa,pl,L,tovaroznalkyniach,f,ulica,tovaroznalkyn,iach,[13],tovar|o|zn|al|k|yň|a,"[5, 6, 8, 10, 11, 13]"
+947,hard_tokenization,veľkospotrebiteľ,sg,D,veľkospotrebiteľovi,mp,priateľ,veľkospotrebiteľ,ovi,[16],veľ|k|o|s|po|treb|iteľ,"[3, 4, 5, 6, 8, 12]"
+948,hard_tokenization,spoluvládkyňa,pl,I,spoluvládkyňami,f,ulica,spoluvládkyň,ami,[12],spol|u|vlád|k|yň|a,"[4, 5, 9, 10, 12]"
+949,hard_tokenization,rádiotelegrafista,pl,D,rádiotelegrafistom,mp,futbalista,rádiotelegrafist,om,[16],rádi|o|tele|graf|ist|a,"[4, 5, 9, 13, 16]"
+950,hard_tokenization,znovunadobudnutie,sg,I,znovunadobudnutím,n,stretnutie,znovunadobudnut,ím,[15],z|nov|u|nado|bud|n|ut|ie,"[1, 4, 5, 9, 12, 13, 15]"
+951,morphological_edge,vytrvalec,sg,A,vytrvalca,mp,chlapec,vytrvalc,a,[8],vy|trv|al|ec,"[2, 5, 7]"
+952,morphological_edge,biologickosť,pl,G,biologickostí,f,možnosť,biologickost,í,[12],bi|o|log|ick|osť,"[2, 3, 6, 9]"
+953,morphological_edge,uvážlivosť,pl,I,uvážlivosťami,f,možnosť,uvážlivosť,ami,[10],uváž|liv|osť,"[4, 7]"
+954,morphological_edge,zastrašenosť,pl,D,zastrašenostiam,f,možnosť,zastrašenost,iam,[12],za|straš|en|osť,"[2, 7, 9]"
+955,morphological_edge,sujetovosť,pl,G,sujetovostí,f,možnosť,sujetovost,í,[10],sujet|ov|osť,"[5, 7]"
+956,morphological_edge,guľatosť,sg,L,guľatosti,f,možnosť,guľatost,i,[8],guľ|at|osť,"[3, 5]"
+957,morphological_edge,privandrovalec,sg,G,privandrovalca,mp,chlapec,privandrovalc,a,[13],pri|vandr|ov|al|ec,"[3, 8, 10, 12]"
+958,morphological_edge,nesmiernosť,pl,L,nesmiernostiach,f,možnosť,nesmiernost,iach,[11],ne|smier|n|osť,"[2, 7, 8]"
+959,morphological_edge,zadubenec,sg,G,zadubenca,mp,chlapec,zadubenc,a,[8],za|dub|en|ec,"[2, 5, 7]"
+960,morphological_edge,cudnosť,sg,I,cudnosťou,f,možnosť,cudnosť,ou,[7],cud|n|osť,"[3, 4]"
+961,morphological_edge,nepovinnosť,pl,D,nepovinnostiam,f,možnosť,nepovinnost,iam,[11],ne|po|vin|n|osť,"[2, 4, 7, 8]"
+962,morphological_edge,múzickosť,pl,A,múzickosti,f,možnosť,múzickost,i,[9],múz|ick|osť,"[3, 6]"
+963,morphological_edge,príhodnosť,pl,G,príhodností,f,možnosť,príhodnost,í,[10],príhod|n|osť,"[6, 7]"
+964,morphological_edge,penivosť,pl,G,penivostí,f,možnosť,penivost,í,[8],pen|iv|osť,"[3, 5]"
+965,morphological_edge,nutkavosť,pl,G,nutkavostí,f,možnosť,nutkavost,í,[9],nut|k|av|osť,"[3, 4, 6]"
+966,morphological_edge,distingvovanosť,sg,G,distingvovanosti,f,možnosť,distingvovanost,i,[15],distingv|ovan|osť,"[8, 12]"
+967,morphological_edge,výbušnosť,pl,N,výbušnosti,f,možnosť,výbušnost,i,[9],vý|buš|n|osť,"[2, 5, 6]"
+968,morphological_edge,pohorelec,sg,I,pohorelcom,mp,chlapec,pohorelc,om,[8],po|hor|el|ec,"[2, 5, 7]"
+969,morphological_edge,rezistentnosť,sg,A,rezistentnosť,f,možnosť,rezistentnosť,ø,[],rezist|ent|n|osť,"[6, 9, 10]"
+970,morphological_edge,drapľavosť,sg,D,drapľavosti,f,možnosť,drapľavost,i,[10],drap|ľav|osť,"[4, 7]"
+971,morphological_edge,starostlivosť,pl,G,starostlivostí,f,možnosť,starostlivost,í,[13],star|ost|liv|osť,"[4, 7, 10]"
+972,morphological_edge,nežičlivosť,sg,D,nežičlivosti,f,možnosť,nežičlivost,i,[11],ne|žič|liv|osť,"[2, 5, 8]"
+973,morphological_edge,úryvkovitosť,sg,A,úryvkovitosť,f,možnosť,úryvkovitosť,ø,[],úryv|k|ovit|osť,"[4, 5, 9]"
+974,morphological_edge,nepríčetnosť,pl,D,nepríčetnostiam,f,možnosť,nepríčetnost,iam,[12],ne|príčet|n|osť,"[2, 8, 9]"
+975,morphological_edge,nonšalantnosť,pl,D,nonšalantnostiam,f,možnosť,nonšalantnost,iam,[13],nonšal|ant|n|osť,"[6, 9, 10]"
+976,morphological_edge,stroskotanec,pl,A,stroskotancov,mp,chlapec,stroskotanc,ov,[11],s|trosk|ot|an|ec,"[1, 6, 8, 10]"
+977,morphological_edge,obmedzenec,pl,I,obmedzencami,mp,chlapec,obmedzenc,ami,[9],ob|medz|en|ec,"[2, 6, 8]"
+978,morphological_edge,protestantizmus,sg,D,protestantizmu,mi,problém,protestantizm,u,[13],protest|ant|izm|us,"[7, 10, 13]"
+979,morphological_edge,nedočkavec,pl,G,nedočkavcov,mp,chlapec,nedočkavc,ov,[9],ne|do|čk|av|ec,"[2, 4, 6, 8]"
+980,morphological_edge,geocentrizmus,pl,L,geocentrizmoch,mi,problém,geocentrizm,och,[11],ge|o|centr|izm|us,"[2, 3, 8, 11]"
+981,morphological_edge,inoverec,pl,I,inovercami,mp,chlapec,inoverc,ami,[7],in|o|ver|ec,"[2, 3, 6]"
+982,morphological_edge,horolezec,sg,I,horolezcom,mp,chlapec,horolezc,om,[8],hor|o|lez|ec,"[3, 4, 7]"
+983,morphological_edge,strelkyňa,sg,G,strelkyne,f,ulica,strelkyn,e,[8],strel|k|yň|a,"[5, 6, 8]"
+984,morphological_edge,prírodopiskyňa,sg,G,prírodopiskyne,f,ulica,prírodopiskyn,e,[13],prí|rod|o|pis|k|yň|a,"[3, 6, 7, 10, 11, 13]"
+985,morphological_edge,environmentalista,pl,N,environmentalisti,mp,futbalista,environmentalist,i,[16],environ|ment|alist|a,"[7, 11, 16]"
+986,morphological_edge,iluzionizmus,sg,D,iluzionizmu,mi,problém,iluzionizm,u,[10],iluzi|onizm|us,"[5, 10]"
+987,morphological_edge,pažravec,pl,N,pažravci,mp,chlapec,pažravc,i,[7],pa|žr|av|ec,"[2, 4, 6]"
+988,morphological_edge,sústruhovňa,pl,D,sústruhovniam,f,poisťovňa,sústruhovn,iam,[10],sú|struh|ov|ň|a,"[2, 7, 9, 10]"
+989,morphological_edge,čerešňa,pl,A,čerešne,f,poisťovňa,čerešne,ø,[],čerešň|a,[6]
+990,morphological_edge,zárubňa,pl,I,zárubňami,f,poisťovňa,zárubň,ami,[6],zá|rub|ň|a,"[2, 5, 6]"
+991,morphological_edge,prívrženkyňa,sg,D,prívrženkyni,f,ulica,prívrženkyn,i,[11],prí|vrž|en|k|yň|a,"[3, 6, 8, 9, 11]"
+992,morphological_edge,plavkyňa,sg,L,plavkyni,f,ulica,plavkyn,i,[7],plav|k|yň|a,"[4, 5, 7]"
+993,morphological_edge,environmentálizmus,sg,G,environmentálizmu,mi,problém,environmentálizm,u,[16],environmentálizmus,[]
+994,morphological_edge,previnilkyňa,pl,I,previnilkyňami,f,ulica,previnilkyň,ami,[11],pre|vin|il|k|yň|a,"[3, 6, 8, 9, 11]"
+995,morphological_edge,riaditeľňa,sg,I,riaditeľňou,f,poisťovňa,riaditeľň,ou,[9],riad|iteľ|ň|a,"[4, 8, 9]"
+996,morphological_edge,sekularizmus,pl,G,sekularizmov,mi,problém,sekularizm,ov,[10],sekular|izm|us,"[7, 10]"
+997,morphological_edge,socializmus,sg,G,socializmu,mi,problém,socializm,u,[9],soci|al|izm|us,"[4, 6, 9]"
+998,morphological_edge,videopožičovňa,sg,L,videopožičovni,f,poisťovňa,videopožičovni,ø,[],vide|o|po|žič|ovň|a,"[4, 5, 7, 10, 13]"
+999,morphological_edge,neosymbolizmus,pl,G,neosymbolizmov,mi,problém,neosymbolizm,ov,[12],neo|symbol|izm|us,"[3, 9, 12]"
+1000,morphological_edge,vodkyňa,sg,A,vodkyňu,f,ulica,vodkyň,u,[6],vod|k|yň|a,"[3, 4, 6]"
+1001,morphological_edge,novoromantizmus,pl,D,novoromantizmom,mi,problém,novoromantizm,om,[13],nov|o|roman|tizm|us,"[3, 4, 9, 13]"
+1002,morphological_edge,pokladňa,pl,D,pokladniam,f,poisťovňa,pokladn,iam,[7],poklad|ň|a,"[6, 7]"
+1003,morphological_edge,výrobňa,pl,N,výrobne,f,poisťovňa,výrobne,ø,[],vý|rob|ň|a,"[2, 5, 6]"
+1004,morphological_edge,formovňa,pl,D,formovniam,f,poisťovňa,formovn,iam,[7],form|ov|ň|a,"[4, 6, 7]"
+1005,morphological_edge,austroslavizmus,pl,A,austroslavizmy,mi,problém,austroslavizm,y,[13],austr|o|slav|izm|us,"[5, 6, 10, 13]"
+1006,morphological_edge,provizórium,pl,L,provizóriách,n,médium,provizóri,ách,[9],provizóri|um,[9]
+1007,morphological_edge,reformizmus,sg,D,reformizmu,mi,problém,reformizm,u,[9],reform|izm|us,"[6, 9]"
+1008,morphological_edge,amaterizmus,sg,A,amaterizmus,mi,problém,amaterizmus,ø,[],am|ater|izm|us,"[2, 6, 9]"
+1009,morphological_edge,konštruktivizmus,sg,A,konštruktivizmus,mi,problém,konštruktivizmus,ø,[],kon|štruk|t|ivizm|us,"[3, 8, 9, 14]"
+1010,morphological_edge,tužkáreň,sg,G,tužkárne,f,elektráreň,tužkárn,e,[7],tuž|k|áreň,"[3, 4]"
+1011,morphological_edge,astigmatizmus,pl,D,astigmatizmom,mi,problém,astigmatizm,om,[11],a|stigm|atizm|us,"[1, 6, 11]"
+1012,morphological_edge,logaritmus,sg,L,logaritme,mi,problém,logaritm,e,[8],log|aritm|us,"[3, 8]"
+1013,morphological_edge,vojvodkyňa,pl,G,vojvodkýň,f,ulica,vojvodkýň,ø,[],voj|vod|kyň|a,"[3, 6, 9]"
+1014,morphological_edge,vyvolenkyňa,pl,G,vyvolenkýň,f,ulica,vyvolenkýň,ø,[],vy|vol|en|k|yň|a,"[2, 5, 7, 8, 10]"
+1015,morphological_edge,meniareň,pl,I,meniarňami,f,elektráreň,meniarň,ami,[7],men|iareň,[3]
+1016,morphological_edge,kotláreň,pl,D,kotlárňam,f,elektráreň,kotlárň,am,[7],kotl|áreň,[4]
+1017,morphological_edge,elektráreň,pl,A,elektrárne,f,elektráreň,elektrárn,e,[9],elektr|áreň,[6]
+1018,morphological_edge,vývarovňa,sg,L,vývarovni,f,poisťovňa,vývarovni,ø,[],vý|var|ovň|a,"[2, 5, 8]"
+1019,morphological_edge,kníhtlačiareň,pl,A,kníhtlačiarne,f,elektráreň,kníhtlačiarn,e,[12],kníh|tlač|iar|eň,"[4, 8, 11]"
+1020,morphological_edge,konjunkturalista,pl,I,konjunkturalistami,mp,futbalista,konjunkturalist,ami,[15],konjunkt|ur|alist|a,"[8, 10, 15]"
+1021,morphological_edge,nocľaháreň,pl,N,nocľahárne,f,elektráreň,nocľahárn,e,[9],noc|ľah|áreň,"[3, 6]"
+1022,morphological_edge,trhovkyňa,pl,N,trhovkyne,f,ulica,trhovkyn,e,[8],trh|ovk|yň|a,"[3, 6, 8]"
+1023,morphological_edge,syráreň,sg,A,syráreň,f,elektráreň,syráreň,ø,[],syr|áreň,[3]
+1024,morphological_edge,výkrmňa,sg,I,výkrmňou,f,poisťovňa,výkrmň,ou,[6],vý|krm|ň|a,"[2, 5, 6]"
+1025,morphological_edge,halapartňa,pl,I,halapartňami,f,poisťovňa,halapartň,ami,[9],halapartň|a,[9]
+1026,morphological_edge,parketáreň,sg,L,parketárni,f,elektráreň,parketárn,i,[9],parket|áreň,[6]
+1027,morphological_edge,sporiteľňa,sg,G,sporiteľne,f,poisťovňa,sporiteľne,ø,[],spor|iteľ|ň|a,"[4, 8, 9]"
+1028,morphological_edge,rýchliareň,pl,L,rýchliarňach,f,elektráreň,rýchliarň,ach,[9],rýchl|iareň,[5]
+1029,morphological_edge,gombikáreň,sg,G,gombikárne,f,elektráreň,gombikárn,e,[9],gomb|ik|áreň,"[4, 6]"
+1030,morphological_edge,paneláreň,sg,A,paneláreň,f,elektráreň,paneláreň,ø,[],panel|áreň,[5]
+1031,morphological_edge,skrutínium,pl,N,skrutíniá,n,médium,skrutíni,á,[8],skrut|íni|um,"[5, 8]"
+1032,morphological_edge,masmédium,pl,N,masmédiá,n,médium,masmédi,á,[7],mas|médi|um,"[3, 7]"
+1033,morphological_edge,prelúdium,pl,A,prelúdiá,n,médium,prelúdi,á,[7],prelúdi|um,[7]
+1034,morphological_edge,cérium,pl,D,cériám,n,médium,céri,ám,[4],cér|i|um,"[3, 4]"
+1035,morphological_edge,postštrukturalista,sg,I,postštrukturalistom,mp,futbalista,postštrukturalist,om,[17],post|štrukt|ur|alist|a,"[4, 10, 12, 17]"
+1036,morphological_edge,sanatórium,pl,I,sanatóriami,n,médium,sanatór,iami,[7],san|atóri|um,"[3, 8]"
+1037,morphological_edge,domínium,pl,G,domínií,n,médium,domíni,í,[6],domín|i|um,"[5, 6]"
+1038,morphological_edge,spoluprekladateľ,sg,D,spoluprekladateľovi,mp,priateľ,spoluprekladateľ,ovi,[16],spol|u|pre|klad|ateľ,"[4, 5, 8, 12]"
+1039,morphological_edge,solárium,sg,D,soláriu,n,médium,solár,iu,[5],sol|ári|um,"[3, 6]"
+1040,morphological_edge,tenorsaxofonista,pl,N,tenorsaxofonisti,mp,futbalista,tenorsaxofonist,i,[15],tenor|sax|o|fon|ist|a,"[5, 8, 9, 12, 15]"
+1041,morphological_edge,akvárium,pl,G,akvárií,n,médium,akvári,í,[6],akv|ári|um,"[3, 6]"
+1042,morphological_edge,plutónium,pl,A,plutóniá,n,médium,plutóni,á,[7],plut|óni|um,"[4, 7]"
+1043,morphological_edge,spolufinancovateľ,pl,G,spolufinancovateľov,mp,priateľ,spolufinancovateľ,ov,[17],spol|u|financ|ov|ateľ,"[4, 5, 11, 13]"
+1044,morphological_edge,polyvinylchlorid,pl,D,polyvinylchloridom,mi,zápas,polyvinylchlorid,om,[16],poly|vinyl|chlor|id,"[4, 9, 14]"
+1045,morphological_edge,generálplukovník,pl,L,generálplukovníkoch,mp,chlap,generálplukovník,och,[16],gener|ál|pluk|ovník,"[5, 7, 11]"
+1046,morphological_edge,spoluorganizátor,pl,G,spoluorganizátorov,mp,chlap,spoluorganizátor,ov,[16],spol|u|organ|izát|or,"[4, 5, 10, 14]"
+1047,morphological_edge,inštrumentalista,sg,I,inštrumentalistom,mp,futbalista,inštrumentalist,om,[15],inštru|ment|alist|a,"[6, 10, 15]"
+1048,morphological_edge,skaderuka-skadenoha,sg,A,skaderuka-skadenoha,mp,neskl,skaderuka-skadenoha,ø,[],skaderuka-skadenoha,[]
+1049,morphological_edge,ultranacionalista,sg,G,ultranacionalistu,mp,futbalista,ultranacionalist,u,[16],ultra|nac|i|onalist|a,"[5, 8, 9, 16]"
+1050,morphological_edge,novonarodeniatko,sg,D,novonarodeniatku,n,vajíčko,novonarodeniatk,u,[15],nov|o|na|rod|en|iatk|o,"[3, 4, 6, 9, 11, 15]"
